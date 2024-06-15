@@ -1,0 +1,1001 @@
+"Id_receta";"Fecha_emision_receta";"Rotulo_receta";"Tipo_tratamiento_receta";"Replica_receta";"Tratamiento_prolongado_receta";"cliente_DNI_cliente";"M�dico_numMatr�cula"
+1;"2023-01-06 03:22:48";"";"terapia de masajes";"simple";0;94889056;594904
+2;"2023-02-25 12:50:01";"Instituto de Salud Pública de Córdoba";"";"simple";0;17295903;374332
+3;"2023-02-19 15:20:25";"Instituto de Salud Pública de Córdoba";"";"simple";1;13612803;126345
+4;"2023-02-28 15:49:33";"Hospital General de Buenos Aires";"acupuntura";"simple";0;21611713;109678
+5;"2023-01-01 01:51:17";"Centro Médico Rosario";"antibi�tico";"triplicada";0;71015624;126345
+6;"2023-02-22 15:11:09";"Sanatorio Belgrano";"";"simple";1;45219102;399256
+7;"2023-01-05 07:32:54";"";"psicotr�pico";"archivada";0;50635048;485716
+8;"2023-02-28 00:58:59";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;99243506;520636
+9;"2023-01-03 21:37:55";"";"terapia de masajes";"simple";0;31134978;331300
+10;"2023-01-04 14:22:29";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;80355727;126345
+11;"2023-02-28 10:52:57";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;45020343;302296
+12;"2023-02-21 23:16:47";"";"terapia ocupacional";"simple";0;52027759;290626
+13;"2023-01-03 18:26:50";"";"acupuntura";"simple";1;14495567;392398
+14;"2023-02-21 09:52:02";"Centro Médico Rosario";"tratamiento con láser";"simple";0;98178653;232366
+15;"2023-02-14 12:06:25";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;38398462;211966
+16;"2023-02-17 09:30:29";"";"terapia física";"simple";0;16533826;112288
+17;"2023-02-25 22:39:02";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;85789200;444700
+18;"2023-02-19 22:51:00";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;36508447;515662
+19;"2023-02-23 15:01:10";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;65923387;133180
+20;"2023-01-01 21:52:33";"";"terapia de masajes";"simple";0;24010922;465256
+21;"2024-06-02 16:40:53";"";"psicotr�pico";"duplicada";0;62414730;480028
+22;"2024-05-28 17:45:21";"Centro Médico Rosario";"cirugía";"simple";0;89647534;126345
+23;"2024-05-14 07:33:05";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;62414730;116860
+24;"2024-05-17 12:21:50";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";0;38843283;543256
+25;"2024-05-28 02:09:35";"Hospital General de Buenos Aires";"antibi�tico";"triplicada";0;70866611;458254
+26;"2024-06-02 21:02:27";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;64359320;352180
+27;"2024-06-07 13:15:57";"Centro Médico Rosario";"terapia física";"simple";0;66214637;161842
+28;"2024-05-22 14:47:21";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;34988337;576580
+29;"2024-05-22 19:05:43";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;20448968;275518
+30;"2024-05-16 12:58:40";"";"terapia de masajes";"simple";0;34973301;571882
+31;"2024-05-24 05:17:04";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;22131187;540292
+32;"2024-06-07 07:00:27";"";"tratamiento homeopático";"simple";0;68511262;289426
+33;"2024-06-05 19:12:03";"";"terapia de grupo";"simple";0;38201425;145150
+34;"2024-05-20 00:09:49";"Hospital General de Buenos Aires";"psicotr�pico";"triplicada";0;20268046;582544
+35;"2024-05-16 09:48:45";"Centro Médico Rosario";"psicotr�pico";"archivada";0;13653635;202984
+36;"2024-05-19 22:48:06";"Hospital General de Buenos Aires";"";"simple";0;36508447;411112
+37;"2024-06-07 12:42:46";"";"tratamiento homeopático";"simple";0;31725297;268678
+38;"2024-06-07 06:30:05";"";"cirugía";"simple";0;84628638;186670
+39;"2024-06-01 02:16:58";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;53148138;484504
+40;"2024-05-14 21:40:40";"";"medicación";"simple";0;58133538;328246
+41;"2024-06-02 02:51:21";"";"tratamiento homeopático";"simple";0;53440840;406390
+42;"2024-06-01 12:27:28";"";"terapia ocupacional";"simple";0;76551366;424786
+43;"2024-05-16 05:07:58";"Hospital General de Buenos Aires";"terapia física";"simple";1;88401009;108556
+44;"2024-06-02 07:02:49";"Clínica San Martín";"tratamiento con láser";"simple";1;35788571;143224
+45;"2024-05-21 22:38:44";"";"";"simple";0;35446298;538222
+46;"2024-05-28 13:32:10";"";"terapia cognitivo-conductual";"simple";0;20052459;565378
+47;"2024-06-05 09:29:19";"";"medicación";"simple";0;48184043;467506
+48;"2024-06-05 15:20:01";"";"psicotr�pico";"triplicada";0;21467318;552724
+49;"2024-05-15 15:21:12";"";"terapia ocupacional";"simple";0;79460705;581350
+50;"2024-05-23 14:31:57";"Centro Médico Rosario";"antibi�tico";"archivada";0;25511741;558022
+51;"2024-06-01 07:40:53";"";"psicotr�pico";"archivada";0;54560993;309874
+52;"2024-06-04 18:57:01";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"duplicada";0;30520397;293008
+53;"2024-05-29 20:34:17";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;90136395;543256
+54;"2024-06-01 12:25:27";"Sanatorio Belgrano";"cirugía";"simple";0;89041653;409594
+55;"2024-05-14 01:50:11";"Clínica San Martín";"cirugía";"simple";0;52467275;301792
+56;"2024-05-22 07:35:30";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;89715979;220750
+57;"2024-06-03 09:58:25";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;70573301;384004
+58;"2024-06-07 10:01:09";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";1;90136395;416500
+59;"2024-05-27 09:15:35";"";"medicación";"simple";0;85196275;548182
+60;"2024-05-26 08:13:37";"";"psicotr�pico";"duplicada";0;65862283;483160
+61;"2024-05-25 11:55:35";"Clínica San Martín";"antibi�tico";"duplicada";0;32603673;363022
+62;"2024-06-04 21:36:38";"";"terapia de masajes";"simple";0;27446275;453310
+63;"2024-05-24 07:18:33";"Centro Médico Rosario";"terapia de masajes";"simple";0;79642191;155296
+64;"2024-05-18 14:17:46";"Clínica San Martín";"acupuntura";"simple";0;88546576;355534
+65;"2024-05-17 13:44:16";"";"acupuntura";"simple";0;79131508;336550
+66;"2024-06-07 11:03:33";"Clínica San Martín";"terapia de masajes";"simple";0;10513053;143224
+67;"2024-05-28 17:06:09";"";"terapia de grupo";"simple";0;64558410;302296
+68;"2024-06-06 01:51:12";"";"";"simple";1;90855012;482206
+69;"2024-05-28 11:03:29";"Hospital General de Buenos Aires";"acupuntura";"simple";0;68573402;317200
+70;"2024-05-19 17:15:24";"Clínica San Martín";"psicotr�pico";"duplicada";0;82798038;103570
+71;"2024-05-19 20:45:32";"";"acupuntura";"simple";0;89647534;523306
+72;"2024-05-17 15:44:03";"Centro Médico Rosario";"tratamiento con láser";"simple";0;26094445;116242
+73;"2024-06-04 18:57:51";"";"terapia de masajes";"simple";0;40884458;520636
+74;"2024-05-29 08:27:40";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;27813078;410608
+75;"2024-05-26 01:35:51";"";"antibi�tico";"archivada";0;37517695;356218
+76;"2024-06-03 01:07:15";"Sanatorio Belgrano";"terapia física";"simple";0;56246254;453310
+77;"2024-06-02 05:39:40";"Hospital General de Buenos Aires";"medicación";"simple";0;39676214;341938
+78;"2024-05-31 12:30:36";"Clínica San Martín";"tratamiento homeopático";"simple";0;82631058;279280
+79;"2024-05-19 19:36:32";"";"terapia de masajes";"simple";0;58133538;286930
+80;"2024-05-30 03:19:06";"Hospital General de Buenos Aires";"antibi�tico";"duplicada";0;76596759;102760
+81;"2024-05-31 04:26:37";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;38607473;597982
+82;"2024-05-19 21:39:24";"Clínica San Martín";"terapia ocupacional";"simple";0;51940267;384022
+83;"2024-05-29 20:53:06";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;73000250;535090
+84;"2024-05-31 04:46:36";"Sanatorio Belgrano";"terapia de masajes";"simple";0;52007891;174310
+85;"2024-06-03 17:36:41";"";"terapia física";"simple";0;84628638;236062
+86;"2024-06-07 01:55:41";"";"psicotr�pico";"duplicada";0;90768757;413638
+87;"2024-05-21 11:41:56";"Clínica San Martín";"tratamiento con láser";"simple";0;21997152;241444
+88;"2024-05-29 06:25:47";"";"terapia de grupo";"simple";0;73291498;267700
+89;"2024-05-18 01:04:32";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";1;66958667;424786
+90;"2024-05-28 15:59:40";"";"tratamiento con láser";"simple";0;39581947;172522
+91;"2024-06-01 15:17:19";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;79226212;527266
+92;"2024-05-15 23:57:46";"Centro Médico Rosario";"medicación";"simple";0;25351390;273838
+93;"2024-05-25 11:36:02";"";"";"simple";0;99401457;285334
+94;"2024-05-24 19:59:28";"Clínica San Martín";"terapia física";"simple";0;76595564;439678
+95;"2024-06-01 16:22:11";"";"cirugía";"simple";1;33943237;517336
+96;"2024-05-23 07:12:41";"Sanatorio Belgrano";"terapia física";"simple";0;43053638;341062
+97;"2024-05-23 10:37:41";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;10603969;374332
+98;"2024-05-30 22:27:53";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;77268910;595678
+99;"2024-05-23 22:18:06";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;52467275;256324
+100;"2024-05-29 09:33:39";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"duplicada";0;71097509;279280
+101;"2024-05-29 20:16:11";"Centro Médico Rosario";"antibi�tico";"duplicada";0;59707538;345796
+102;"2024-06-01 23:17:34";"Hospital General de Buenos Aires";"psicotr�pico";"archivada";0;35409229;336844
+103;"2024-05-21 07:22:48";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;78686736;234034
+104;"2024-05-27 22:49:21";"";"psicotr�pico";"triplicada";1;83541486;470968
+105;"2024-05-27 03:15:48";"";"medicación";"simple";0;23223808;408208
+106;"2024-05-26 21:56:17";"";"tratamiento homeopático";"simple";0;81351237;350398
+107;"2024-05-26 17:01:13";"Instituto de Salud Pública de Córdoba";"";"simple";1;23170986;259774
+108;"2024-05-14 00:54:19";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;85606083;187450
+109;"2024-05-22 10:53:45";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;44221817;384022
+110;"2024-06-04 18:24:49";"Centro Médico Rosario";"tratamiento con láser";"simple";0;92084253;579232
+111;"2024-05-21 05:55:26";"Clínica San Martín";"terapia de grupo";"simple";0;20062102;409594
+112;"2024-06-06 20:41:28";"";"terapia de masajes";"simple";0;56805722;436036
+113;"2024-05-23 12:29:27";"";"terapia física";"simple";0;25879855;362110
+114;"2024-06-06 18:55:39";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;22436083;224002
+115;"2024-05-26 21:12:39";"Hospital General de Buenos Aires";"";"simple";0;14180322;399472
+116;"2024-05-17 06:38:02";"Clínica San Martín";"medicación";"simple";0;64121971;204838
+117;"2024-05-27 06:32:54";"";"cirugía";"simple";0;56805722;247600
+118;"2024-05-25 11:22:06";"Centro Médico Rosario";"acupuntura";"simple";0;71015624;514192
+119;"2024-05-21 11:57:26";"Hospital General de Buenos Aires";"";"simple";0;68358683;237592
+120;"2024-05-24 10:50:07";"";"medicación";"simple";0;47962084;480028
+121;"2024-05-17 03:20:38";"Clínica San Martín";"medicación";"simple";0;63097573;508282
+122;"2024-06-03 01:33:22";"Sanatorio Belgrano";"terapia de masajes";"simple";0;79246698;267700
+123;"2024-06-07 09:19:52";"Clínica San Martín";"psicotr�pico";"triplicada";0;21997152;187852
+124;"2024-06-01 09:37:40";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;19067948;403612
+125;"2024-05-25 02:09:20";"";"medicación";"simple";0;80355727;133180
+126;"2024-05-18 19:11:47";"";"tratamiento homeopático";"simple";0;21611713;517336
+127;"2024-05-21 16:18:56";"Centro Médico Rosario";"terapia de masajes";"simple";0;57187470;212620
+128;"2024-05-20 08:10:31";"";"medicación";"simple";0;21440470;535090
+129;"2024-05-30 04:08:51";"Clínica San Martín";"terapia física";"simple";1;79381924;173110
+130;"2024-05-25 23:43:33";"Clínica San Martín";"psicotr�pico";"duplicada";0;66068317;267700
+131;"2024-05-27 10:32:09";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;19067948;132820
+132;"2024-05-18 05:50:40";"";"terapia de masajes";"simple";0;64260818;222862
+133;"2024-05-20 23:16:42";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;33457504;363022
+134;"2024-06-03 14:07:34";"Instituto de Salud Pública de Córdoba";"";"simple";0;33943237;187852
+135;"2024-05-21 09:03:17";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;38607473;283240
+136;"2024-05-23 03:00:34";"Clínica San Martín";"antibi�tico";"archivada";0;14180322;483160
+137;"2024-05-27 03:38:06";"Clínica San Martín";"terapia física";"simple";0;42608781;122224
+138;"2024-06-07 13:18:09";"";"terapia física";"simple";1;66412973;592918
+139;"2024-05-30 10:33:17";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;28599441;341062
+140;"2024-05-16 21:15:45";"";"psicotr�pico";"duplicada";0;22131187;577084
+141;"2024-05-15 17:17:00";"";"antibi�tico";"triplicada";0;79951301;182758
+142;"2024-06-07 20:18:07";"";"terapia ocupacional";"simple";0;14252328;452824
+143;"2024-05-20 06:53:40";"";"terapia ocupacional";"simple";0;71097509;254848
+144;"2024-06-04 04:12:06";"Centro Médico Rosario";"acupuntura";"simple";0;68511262;447754
+145;"2024-05-25 03:59:38";"Instituto de Salud Pública de Córdoba";"antibi�tico";"archivada";0;18853070;433066
+146;"2024-05-20 10:52:53";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;19080050;132250
+147;"2024-05-21 18:28:26";"Hospital General de Buenos Aires";"acupuntura";"simple";0;53148138;279280
+148;"2024-05-27 12:56:37";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;51974799;241444
+149;"2024-05-28 23:25:52";"Sanatorio Belgrano";"psicotr�pico";"archivada";0;85789200;353008
+150;"2024-06-03 11:21:33";"Centro Médico Rosario";"antibi�tico";"archivada";0;82596357;126345
+151;"2024-05-26 18:46:35";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";1;91777212;424786
+152;"2024-05-31 22:06:49";"Centro Médico Rosario";"acupuntura";"simple";0;32353994;331300
+153;"2024-05-27 10:41:59";"Hospital General de Buenos Aires";"medicación";"simple";0;38201425;576580
+154;"2024-05-28 06:18:53";"";"tratamiento homeopático";"simple";0;88585237;323260
+155;"2024-05-21 07:21:58";"";"terapia física";"simple";0;97577237;522298
+156;"2024-05-20 17:28:11";"";"psicotr�pico";"duplicada";0;18845261;456478
+157;"2024-05-24 17:53:25";"";"acupuntura";"simple";1;81351237;430966
+158;"2024-05-18 23:21:23";"Centro Médico Rosario";"terapia de masajes";"simple";0;32570310;236554
+159;"2024-05-22 22:22:51";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;70520707;356218
+160;"2024-05-31 12:29:36";"";"cirugía";"simple";1;52467275;570322
+161;"2024-05-15 16:48:22";"Centro Médico Rosario";"acupuntura";"simple";0;92993237;121846
+162;"2024-05-24 21:26:59";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;31761780;435040
+163;"2024-05-19 21:12:14";"Clínica San Martín";"medicación";"simple";1;85755444;466654
+164;"2024-05-25 03:03:03";"Centro Médico Rosario";"tratamiento con láser";"simple";0;58133538;514336
+165;"2024-05-24 13:16:53";"Sanatorio Belgrano";"cirugía";"simple";0;49335895;514192
+166;"2024-06-05 02:02:37";"";"terapia de masajes";"simple";0;58303482;109678
+167;"2024-05-20 00:26:51";"Sanatorio Belgrano";"cirugía";"simple";0;52467275;506386
+168;"2024-06-03 19:02:39";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;19940628;532828
+169;"2024-06-03 19:41:16";"";"psicotr�pico";"triplicada";0;99366827;592792
+170;"2024-05-29 10:55:30";"Sanatorio Belgrano";"";"simple";0;61786849;405616
+171;"2024-05-18 22:08:51";"Instituto de Salud Pública de Córdoba";"antibi�tico";"archivada";0;59707538;541804
+172;"2024-05-21 21:06:11";"";"terapia de masajes";"simple";0;76595564;564718
+173;"2024-05-25 14:08:52";"Hospital General de Buenos Aires";"cirugía";"simple";0;86581857;573652
+174;"2024-05-27 07:29:47";"Sanatorio Belgrano";"psicotr�pico";"triplicada";0;61374904;394612
+175;"2024-05-22 20:01:08";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";1;54370290;582544
+176;"2024-05-29 04:13:33";"Centro Médico Rosario";"terapia física";"simple";1;46257963;237592
+177;"2024-06-04 04:10:57";"Centro Médico Rosario";"antibi�tico";"duplicada";0;72503758;487714
+178;"2024-05-17 03:30:11";"Clínica San Martín";"terapia física";"simple";0;36751804;411112
+179;"2024-05-31 12:15:52";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;45436296;332614
+180;"2024-05-15 03:00:04";"Sanatorio Belgrano";"antibi�tico";"duplicada";0;79937942;364666
+181;"2024-05-29 12:02:11";"Hospital General de Buenos Aires";"acupuntura";"simple";0;33665705;575422
+182;"2024-06-03 20:45:42";"";"terapia física";"simple";0;83964257;535090
+183;"2024-06-06 10:18:37";"Clínica San Martín";"medicación";"simple";0;52818901;451114
+184;"2024-05-31 10:16:53";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;52584627;408208
+185;"2024-05-20 20:33:15";"Instituto de Salud Pública de Córdoba";"acupuntura";"simple";0;52007891;135706
+186;"2024-05-14 22:22:23";"";"cirugía";"simple";0;47962084;517336
+187;"2024-05-29 06:19:03";"Clínica San Martín";"terapia de grupo";"simple";0;44792580;581968
+188;"2024-05-19 22:54:51";"Hospital General de Buenos Aires";"acupuntura";"simple";0;30273922;336550
+189;"2024-05-31 00:47:33";"Clínica San Martín";"antibi�tico";"duplicada";0;19347148;487192
+190;"2024-06-01 19:05:45";"Sanatorio Belgrano";"acupuntura";"simple";0;65007748;456478
+191;"2024-05-30 23:00:01";"";"terapia ocupacional";"simple";0;19347148;476866
+192;"2024-05-31 00:23:34";"";"tratamiento homeopático";"simple";0;86060893;595678
+193;"2024-05-30 21:28:33";"Hospital General de Buenos Aires";"antibi�tico";"duplicada";0;82798038;309874
+194;"2024-05-17 19:32:47";"";"antibi�tico";"triplicada";0;27400088;407074
+195;"2024-05-16 20:14:46";"";"terapia cognitivo-conductual";"simple";0;28521677;215164
+196;"2024-05-15 12:20:36";"";"antibi�tico";"triplicada";0;81829099;228490
+197;"2024-05-22 12:20:47";"Hospital General de Buenos Aires";"terapia física";"simple";0;94454199;180844
+198;"2024-05-17 15:17:47";"Instituto de Salud Pública de Córdoba";"antibi�tico";"duplicada";0;20268046;435040
+199;"2024-06-06 11:46:07";"";"antibi�tico";"archivada";0;49335895;323260
+200;"2024-05-31 22:22:45";"Hospital General de Buenos Aires";"acupuntura";"simple";0;82169374;126345
+201;"2024-05-22 18:58:29";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;69452895;285334
+202;"2024-05-24 12:09:39";"";"";"simple";0;84628638;520636
+203;"2024-05-26 16:49:40";"Hospital General de Buenos Aires";"terapia física";"simple";0;87920545;251782
+204;"2024-05-16 04:13:44";"Sanatorio Belgrano";"medicación";"simple";0;34754922;507754
+205;"2024-05-16 19:58:45";"";"psicotr�pico";"duplicada";0;93382185;470638
+206;"2024-05-16 09:55:38";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;21025557;582430
+207;"2024-06-05 17:36:41";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;60198312;266476
+208;"2024-05-23 06:00:53";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;68358683;247600
+209;"2024-06-01 23:21:40";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;32603673;494932
+210;"2024-06-04 06:19:53";"Clínica San Martín";"terapia de masajes";"simple";0;69312265;268408
+211;"2024-05-20 01:36:28";"";"psicotr�pico";"archivada";0;39581947;522298
+212;"2024-05-27 21:48:56";"Clínica San Martín";"terapia cognitivo-conductual";"simple";0;75454424;595918
+213;"2024-06-04 22:48:14";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;58303482;518266
+214;"2024-05-18 06:10:02";"Centro Médico Rosario";"tratamiento con láser";"simple";0;86959523;232366
+215;"2024-05-25 14:42:48";"Sanatorio Belgrano";"psicotr�pico";"archivada";0;52467275;461902
+216;"2024-06-06 02:21:49";"Clínica San Martín";"";"simple";0;31457173;394612
+217;"2024-05-30 13:09:49";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;87920545;317974
+218;"2024-05-27 11:28:18";"Centro Médico Rosario";"terapia física";"simple";0;83271313;133180
+219;"2024-05-19 02:10:10";"Hospital General de Buenos Aires";"terapia física";"simple";0;31296008;300118
+220;"2024-05-26 20:03:32";"";"psicotr�pico";"duplicada";0;67822713;403612
+221;"2024-05-18 02:50:56";"Sanatorio Belgrano";"antibi�tico";"archivada";0;41215288;538222
+222;"2024-05-27 04:50:01";"Hospital General de Buenos Aires";"psicotr�pico";"triplicada";0;53440840;355534
+223;"2024-06-05 19:24:49";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";1;54194799;451114
+224;"2024-06-03 11:46:35";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;20051552;340822
+225;"2024-05-31 21:46:05";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;86604025;226672
+226;"2024-05-30 12:53:52";"Centro Médico Rosario";"acupuntura";"simple";0;16807428;109678
+227;"2024-05-24 11:53:31";"Centro Médico Rosario";"psicotr�pico";"archivada";0;20228710;471424
+228;"2024-05-23 07:15:22";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;78670649;143224
+229;"2024-05-31 23:58:18";"Hospital General de Buenos Aires";"medicación";"simple";0;53440840;344602
+230;"2024-06-05 16:18:25";"Centro Médico Rosario";"";"simple";1;82596357;578752
+231;"2024-05-27 18:10:26";"";"acupuntura";"simple";0;60198312;254848
+232;"2024-05-21 20:25:41";"Sanatorio Belgrano";"medicación";"simple";0;30273922;405304
+233;"2024-05-15 04:50:04";"Clínica San Martín";"tratamiento con láser";"simple";0;44321257;146992
+234;"2024-05-19 07:18:34";"Sanatorio Belgrano";"medicación";"simple";0;52078325;103570
+235;"2024-05-31 13:17:12";"Centro Médico Rosario";"tratamiento con láser";"simple";0;88465230;480028
+236;"2024-05-15 19:35:54";"Sanatorio Belgrano";"cirugía";"simple";0;65007748;216346
+237;"2024-05-20 08:24:28";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;11166859;444148
+238;"2024-06-07 12:55:41";"Hospital General de Buenos Aires";"tratamiento homeopático";"simple";1;30503859;229162
+239;"2024-05-31 22:23:06";"Centro Médico Rosario";"terapia de grupo";"simple";0;45369535;502984
+240;"2024-06-07 11:46:02";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;78670649;532678
+241;"2024-05-15 15:58:55";"Centro Médico Rosario";"terapia ocupacional";"simple";0;52584627;552838
+242;"2024-06-01 23:30:15";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;42259609;289426
+243;"2024-06-03 17:35:11";"Clínica San Martín";"";"simple";0;68358683;565162
+244;"2024-06-02 21:48:58";"Hospital General de Buenos Aires";"terapia física";"simple";1;24010922;148120
+245;"2024-05-26 15:16:27";"";"terapia de grupo";"simple";0;57761083;563530
+246;"2024-05-17 01:59:55";"Clínica San Martín";"terapia de grupo";"simple";0;20052459;241966
+247;"2024-06-03 17:06:44";"Clínica San Martín";"acupuntura";"simple";0;39738389;145150
+248;"2024-05-23 20:20:23";"";"terapia física";"simple";1;65007748;485716
+249;"2024-05-21 07:46:05";"";"medicación";"simple";0;34754922;466666
+250;"2024-05-30 11:48:12";"Centro Médico Rosario";"medicación";"simple";0;61374904;477082
+251;"2024-05-29 19:11:25";"";"antibi�tico";"duplicada";0;90097655;251782
+252;"2024-05-26 05:03:07";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;91777212;186538
+253;"2024-05-27 23:32:27";"";"psicotr�pico";"duplicada";0;14495567;592918
+254;"2024-05-20 18:30:55";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;13338262;487192
+255;"2024-05-21 06:18:04";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;54337984;121846
+256;"2024-05-17 22:39:20";"Sanatorio Belgrano";"acupuntura";"simple";0;47151089;589228
+257;"2024-05-31 10:42:01";"";"";"simple";0;25873362;416578
+258;"2024-05-15 10:41:41";"";"tratamiento homeopático";"simple";0;52027759;346870
+259;"2024-06-06 15:37:07";"Clínica San Martín";"cirugía";"simple";0;22153307;513532
+260;"2024-06-02 09:35:48";"";"acupuntura";"simple";0;91793859;190096
+261;"2024-05-14 12:57:16";"Clínica San Martín";"terapia física";"simple";0;98178653;548704
+262;"2024-06-02 05:04:27";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;16478694;338620
+263;"2024-05-29 19:44:47";"Clínica San Martín";"tratamiento con láser";"simple";0;60693961;260122
+264;"2024-05-14 23:44:10";"";"psicotr�pico";"duplicada";0;60397469;146992
+265;"2024-05-22 14:21:04";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;52347397;301792
+266;"2024-05-15 14:15:41";"";"antibi�tico";"archivada";0;95153803;311836
+267;"2024-05-27 07:11:44";"Clínica San Martín";"tratamiento homeopático";"simple";1;58133538;425566
+268;"2024-05-28 12:46:47";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;40849716;331300
+269;"2024-06-04 16:11:08";"Sanatorio Belgrano";"antibi�tico";"archivada";0;44321257;377074
+270;"2024-05-14 01:24:21";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;33457504;515662
+271;"2024-05-25 17:18:11";"Clínica San Martín";"antibi�tico";"duplicada";0;90768757;254944
+272;"2024-05-22 14:04:18";"Centro Médico Rosario";"terapia física";"simple";0;66068317;270718
+273;"2024-05-29 20:37:21";"";"acupuntura";"simple";0;48230553;243880
+274;"2024-05-22 08:20:54";"Instituto de Salud Pública de Córdoba";"antibi�tico";"archivada";0;50196129;132250
+275;"2024-06-05 19:35:18";"Hospital General de Buenos Aires";"terapia física";"simple";0;25879855;211966
+276;"2024-05-27 08:24:41";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;93382185;218404
+277;"2024-06-04 11:48:56";"Clínica San Martín";"";"simple";1;32570310;273838
+278;"2024-05-31 15:03:43";"";"antibi�tico";"archivada";0;98445860;216346
+279;"2024-05-14 11:37:04";"";"";"simple";0;13943347;523306
+280;"2024-05-28 18:40:11";"";"cirugía";"simple";1;75255882;543610
+281;"2024-05-21 04:08:42";"Sanatorio Belgrano";"antibi�tico";"duplicada";0;14950941;336550
+282;"2024-06-07 20:43:44";"";"psicotr�pico";"archivada";0;19485033;253288
+283;"2024-06-02 23:19:47";"Centro Médico Rosario";"terapia ocupacional";"simple";0;88904354;518266
+284;"2024-05-20 13:38:13";"";"cirugía";"simple";0;35713262;344602
+285;"2024-05-30 01:47:05";"";"terapia ocupacional";"simple";0;40849716;465256
+286;"2024-05-24 20:05:40";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;18490659;240376
+287;"2024-06-02 18:48:38";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;14180322;282100
+288;"2024-06-02 22:57:50";"";"medicación";"simple";0;73814517;348406
+289;"2024-06-01 09:44:14";"Sanatorio Belgrano";"psicotr�pico";"archivada";0;14252328;531364
+290;"2024-06-02 00:42:12";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;33457504;565162
+291;"2024-05-20 17:44:48";"Clínica San Martín";"psicotr�pico";"duplicada";0;81351237;393340
+292;"2024-05-20 19:24:08";"Centro Médico Rosario";"psicotr�pico";"archivada";0;63192652;161662
+293;"2024-05-24 06:03:37";"";"medicación";"simple";0;85325092;370738
+294;"2024-05-30 08:11:06";"";"terapia ocupacional";"simple";1;49676073;543256
+295;"2024-06-05 18:14:12";"Centro Médico Rosario";"antibi�tico";"duplicada";0;69139425;345796
+296;"2024-05-17 05:56:32";"Centro Médico Rosario";"terapia de masajes";"simple";0;70903456;188626
+297;"2024-05-22 09:18:02";"Clínica San Martín";"terapia de masajes";"simple";0;38207070;211966
+298;"2024-06-03 11:25:14";"";"terapia de grupo";"simple";0;78686736;336760
+299;"2024-05-28 05:38:36";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;65903828;355534
+300;"2024-05-17 06:51:56";"Sanatorio Belgrano";"terapia ocupacional";"simple";1;84771759;151984
+301;"2024-06-06 10:55:00";"Sanatorio Belgrano";"antibi�tico";"archivada";0;14180322;356218
+302;"2024-05-18 03:35:19";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;48634934;480442
+303;"2024-05-28 17:34:00";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";0;41768211;241444
+304;"2024-05-21 05:15:59";"Clínica San Martín";"terapia de grupo";"simple";0;39256442;110980
+305;"2024-05-18 04:24:00";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";0;85755444;329806
+306;"2024-05-23 01:29:35";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;80615019;262588
+307;"2024-05-24 14:07:41";"Hospital General de Buenos Aires";"terapia física";"simple";0;69986394;342634
+308;"2024-05-19 02:49:25";"Clínica San Martín";"cirugía";"simple";0;78686736;121846
+309;"2024-06-01 04:36:49";"Instituto de Salud Pública de Córdoba";"antibi�tico";"archivada";0;42259609;523306
+310;"2024-06-01 05:36:02";"Centro Médico Rosario";"";"simple";0;63192652;244522
+311;"2024-06-04 08:00:45";"Clínica San Martín";"antibi�tico";"triplicada";0;94776699;581350
+312;"2024-06-02 05:17:40";"Clínica San Martín";"terapia física";"simple";0;13362601;182758
+313;"2024-05-21 00:40:07";"Hospital General de Buenos Aires";"antibi�tico";"triplicada";0;48230553;507754
+314;"2024-05-15 21:26:03";"";"terapia ocupacional";"simple";0;79226212;187450
+315;"2024-05-28 03:05:39";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;53798045;509572
+316;"2024-05-19 18:56:42";"Sanatorio Belgrano";"cirugía";"simple";0;38611671;393088
+317;"2024-05-28 05:46:52";"";"terapia ocupacional";"simple";0;30273922;369772
+318;"2024-06-02 01:47:52";"";"tratamiento con láser";"simple";0;54194799;236554
+319;"2024-05-16 17:18:13";"Sanatorio Belgrano";"";"simple";0;42259609;299680
+320;"2024-05-27 20:39:58";"Clínica San Martín";"antibi�tico";"triplicada";0;33665705;384004
+321;"2024-06-06 04:13:36";"";"tratamiento homeopático";"simple";0;88631854;157012
+322;"2024-05-28 20:21:26";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;25130361;515662
+323;"2024-06-02 19:10:02";"";"cirugía";"simple";0;32681211;101716
+324;"2024-05-17 22:36:57";"";"";"simple";0;79951301;426346
+325;"2024-05-15 21:50:55";"Sanatorio Belgrano";"medicación";"simple";0;71381862;380950
+326;"2024-05-21 10:08:20";"Sanatorio Belgrano";"terapia de grupo";"simple";0;48126495;393340
+327;"2024-05-17 05:57:18";"Instituto de Salud Pública de Córdoba";"";"simple";0;39053444;336844
+328;"2024-06-03 20:34:27";"Clínica San Martín";"terapia de masajes";"simple";0;99613890;539668
+329;"2024-05-22 03:28:07";"Instituto de Salud Pública de Córdoba";"acupuntura";"simple";0;59664447;311836
+330;"2024-05-27 11:38:00";"Clínica San Martín";"terapia de grupo";"simple";0;42259609;148120
+331;"2024-05-26 16:30:30";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;10765127;580246
+332;"2024-05-31 21:34:06";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";0;67317964;329806
+333;"2024-05-17 10:45:40";"Instituto de Salud Pública de Córdoba";"antibi�tico";"duplicada";0;39359201;575422
+334;"2024-06-04 05:23:40";"";"terapia de masajes";"simple";0;86376855;476866
+335;"2024-06-07 20:39:57";"";"antibi�tico";"triplicada";0;85325092;240376
+336;"2024-05-20 13:53:14";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;56225585;370510
+337;"2024-05-21 10:00:39";"Sanatorio Belgrano";"terapia de masajes";"simple";0;65134337;450628
+338;"2024-05-24 02:38:49";"Clínica San Martín";"tratamiento homeopático";"simple";0;20051552;199426
+339;"2024-05-27 18:11:12";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;80615019;540292
+340;"2024-05-25 19:37:01";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;31087386;125476
+341;"2024-05-21 04:17:03";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;30273922;397306
+342;"2024-05-20 04:37:36";"";"tratamiento homeopático";"simple";0;87951839;187852
+343;"2024-06-02 10:44:02";"";"psicotr�pico";"duplicada";0;47962084;187450
+344;"2024-05-23 23:21:41";"Hospital General de Buenos Aires";"acupuntura";"simple";0;95153803;102760
+345;"2024-05-19 23:14:56";"Hospital General de Buenos Aires";"terapia física";"simple";1;28056265;132250
+346;"2024-06-04 18:31:14";"Sanatorio Belgrano";"acupuntura";"simple";0;20051552;403612
+347;"2024-06-04 12:25:34";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;89647534;212620
+348;"2024-05-19 00:43:40";"Centro Médico Rosario";"acupuntura";"simple";0;60360637;354772
+349;"2024-06-02 00:27:01";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;35446298;426346
+350;"2024-06-07 18:46:36";"Sanatorio Belgrano";"terapia de masajes";"simple";0;18845261;126345
+351;"2024-05-27 09:33:55";"Clínica San Martín";"medicación";"simple";0;88830475;496690
+352;"2024-05-21 11:45:47";"Sanatorio Belgrano";"antibi�tico";"archivada";0;82683067;535090
+353;"2024-05-25 17:30:32";"";"terapia ocupacional";"simple";0;34973301;103720
+354;"2024-05-28 20:22:29";"Sanatorio Belgrano";"medicación";"simple";0;91764639;466654
+355;"2024-05-27 17:14:12";"Centro Médico Rosario";"acupuntura";"simple";1;16347814;296680
+356;"2024-05-14 12:46:04";"";"psicotr�pico";"triplicada";0;65643965;458254
+357;"2024-05-19 07:57:12";"Hospital General de Buenos Aires";"medicación";"simple";0;65903828;543256
+358;"2024-05-21 02:36:23";"Centro Médico Rosario";"acupuntura";"simple";1;99240067;161662
+359;"2024-05-21 15:50:15";"Sanatorio Belgrano";"antibi�tico";"archivada";0;99484656;416578
+360;"2024-05-24 01:50:20";"Hospital General de Buenos Aires";"medicación";"simple";0;16807428;565162
+361;"2024-05-28 09:18:52";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;34611302;204838
+362;"2024-05-26 21:33:57";"Centro Médico Rosario";"";"simple";0;10513053;571882
+363;"2024-05-30 22:00:34";"Sanatorio Belgrano";"acupuntura";"simple";0;75192003;553690
+364;"2024-06-04 10:49:06";"Clínica San Martín";"acupuntura";"simple";0;11166859;303322
+365;"2024-05-17 12:50:07";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;10603969;467110
+366;"2024-05-19 11:14:58";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;25511741;355534
+367;"2024-05-14 17:24:20";"";"terapia cognitivo-conductual";"simple";0;31761780;423022
+368;"2024-05-31 11:39:57";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;20062102;489316
+369;"2024-05-21 11:13:49";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;38651134;132820
+370;"2024-05-18 08:55:04";"Sanatorio Belgrano";"antibi�tico";"archivada";0;23223808;438004
+371;"2024-05-30 12:19:43";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;76551366;552496
+372;"2024-05-17 00:00:11";"Sanatorio Belgrano";"terapia de grupo";"simple";0;29735594;508282
+373;"2024-05-15 08:51:34";"";"tratamiento homeopático";"simple";0;56805722;370738
+374;"2024-05-26 15:38:32";"";"cirugía";"simple";0;57187470;173110
+375;"2024-05-17 14:41:30";"Clínica San Martín";"tratamiento con láser";"simple";0;51974799;465256
+376;"2024-05-24 06:36:06";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;28056265;453310
+377;"2024-06-04 06:54:00";"Centro Médico Rosario";"tratamiento con láser";"simple";0;56805722;317716
+378;"2024-05-18 21:59:54";"";"terapia de masajes";"simple";0;49676073;335776
+379;"2024-06-02 12:02:34";"Sanatorio Belgrano";"terapia de grupo";"simple";0;96088162;354772
+380;"2024-05-24 12:28:20";"Sanatorio Belgrano";"medicación";"simple";0;29393737;558022
+381;"2024-05-25 11:07:18";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";0;93671620;410560
+382;"2024-05-25 03:05:02";"Hospital General de Buenos Aires";"antibi�tico";"triplicada";0;16224051;482206
+383;"2024-05-20 15:17:16";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;62414730;293008
+384;"2024-05-19 12:40:10";"";"terapia de masajes";"simple";0;48230553;410608
+385;"2024-05-30 04:59:55";"";"";"simple";0;94847000;253288
+386;"2024-05-30 21:21:50";"Sanatorio Belgrano";"cirugía";"simple";0;32570310;207784
+387;"2024-05-30 16:41:24";"Clínica San Martín";"psicotr�pico";"archivada";0;31440108;163204
+388;"2024-05-14 07:16:23";"Centro Médico Rosario";"medicación";"simple";0;93671620;282100
+389;"2024-06-02 07:59:12";"";"tratamiento con láser";"simple";0;44321257;581968
+390;"2024-05-26 11:42:07";"";"terapia cognitivo-conductual";"simple";0;79114431;579232
+391;"2024-05-17 00:17:51";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;41215288;302296
+392;"2024-06-04 01:31:57";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;70573301;159676
+393;"2024-05-26 21:45:36";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;70520707;345796
+394;"2024-05-31 12:09:15";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;60360637;188626
+395;"2024-05-24 06:08:44";"";"tratamiento con láser";"simple";0;27400088;458254
+396;"2024-05-29 10:19:19";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;91777212;341140
+397;"2024-06-05 05:48:02";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;86060893;466654
+398;"2024-05-29 13:18:45";"Clínica San Martín";"psicotr�pico";"triplicada";0;13924480;328246
+399;"2024-06-02 02:58:29";"";"antibi�tico";"triplicada";0;31087386;281476
+400;"2024-05-21 16:28:03";"Clínica San Martín";"cirugía";"simple";0;66162304;410938
+401;"2024-05-19 01:42:01";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;86060893;552496
+402;"2024-05-27 10:59:06";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"triplicada";0;31457173;388216
+403;"2024-05-22 06:32:37";"";"terapia ocupacional";"simple";0;11489420;438004
+404;"2024-05-28 10:48:21";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;82683067;226672
+405;"2024-05-23 15:52:58";"Hospital General de Buenos Aires";"medicación";"simple";0;92259708;340750
+406;"2024-05-20 00:02:50";"Instituto de Salud Pública de Córdoba";"";"simple";0;79226212;450628
+407;"2024-05-22 13:34:19";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;95153803;393088
+408;"2024-06-04 13:47:12";"Clínica San Martín";"psicotr�pico";"triplicada";0;70520707;248230
+409;"2024-05-30 17:34:20";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;20062102;409594
+410;"2024-05-29 17:52:50";"";"medicación";"simple";0;49385526;354772
+411;"2024-05-15 07:16:57";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;51974799;121846
+412;"2024-05-28 15:23:58";"Instituto de Salud Pública de Córdoba";"";"simple";0;64620354;467110
+413;"2024-05-25 01:00:38";"";"antibi�tico";"archivada";0;93954865;270328
+414;"2024-05-23 10:19:11";"Hospital General de Buenos Aires";"tratamiento homeopático";"simple";0;34934286;104752
+415;"2024-06-06 12:14:15";"Hospital General de Buenos Aires";"terapia física";"simple";0;79226212;159676
+416;"2024-06-03 18:30:00";"";"psicotr�pico";"duplicada";1;99243506;543256
+417;"2024-05-27 06:07:47";"Hospital General de Buenos Aires";"tratamiento homeopático";"simple";0;31087386;336550
+418;"2024-05-25 23:01:36";"Clínica San Martín";"medicación";"simple";0;30503859;174310
+419;"2024-05-21 21:03:29";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;93671620;481414
+420;"2024-05-22 16:24:48";"";"terapia ocupacional";"simple";1;83493541;241444
+421;"2024-06-05 00:59:35";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;29453626;211966
+422;"2024-05-27 13:42:25";"Clínica San Martín";"antibi�tico";"triplicada";0;45426815;181318
+423;"2024-05-27 21:51:24";"Centro Médico Rosario";"psicotr�pico";"archivada";0;74718043;405616
+424;"2024-05-18 08:13:49";"Sanatorio Belgrano";"medicación";"simple";0;14495567;552496
+425;"2024-05-15 16:24:57";"Sanatorio Belgrano";"psicotr�pico";"triplicada";0;64450270;572224
+426;"2024-05-29 06:49:56";"";"terapia de masajes";"simple";0;77084715;303478
+427;"2024-05-29 08:07:18";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"triplicada";0;75135337;470968
+428;"2024-06-02 04:54:33";"Clínica San Martín";"antibi�tico";"triplicada";0;38398462;275518
+429;"2024-05-24 04:50:14";"";"tratamiento homeopático";"simple";0;86604025;243880
+430;"2024-05-31 16:36:06";"";"psicotr�pico";"duplicada";0;31296008;428122
+431;"2024-05-28 09:19:28";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;98445860;416578
+432;"2024-05-21 13:21:36";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";1;82169374;487192
+433;"2024-06-04 11:55:44";"";"psicotr�pico";"archivada";0;56805722;270220
+434;"2024-06-01 05:02:38";"";"psicotr�pico";"triplicada";1;16478694;402484
+435;"2024-05-24 22:32:40";"Clínica San Martín";"psicotr�pico";"triplicada";0;70848986;538222
+436;"2024-05-22 02:36:16";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;59707538;539668
+437;"2024-05-14 07:05:38";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;71715813;541804
+438;"2024-06-07 14:56:08";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;51940267;340750
+439;"2024-05-30 11:26:54";"";"terapia física";"simple";0;10825579;517336
+440;"2024-05-25 00:09:38";"Hospital General de Buenos Aires";"psicotr�pico";"archivada";0;48142080;226672
+441;"2024-05-26 06:53:03";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;23170986;388216
+442;"2024-05-29 14:52:20";"";"antibi�tico";"duplicada";0;23544653;434518
+443;"2024-05-19 19:59:36";"Sanatorio Belgrano";"medicación";"simple";0;49676073;433066
+444;"2024-05-17 02:04:19";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;49385526;504298
+445;"2024-05-17 05:58:04";"Clínica San Martín";"antibi�tico";"duplicada";1;79754597;215164
+446;"2024-06-02 08:42:53";"Hospital General de Buenos Aires";"acupuntura";"simple";0;67822713;364666
+447;"2024-05-25 23:31:10";"Clínica San Martín";"cirugía";"simple";0;34989690;324976
+448;"2024-06-05 22:31:52";"";"acupuntura";"simple";0;12498035;589894
+449;"2024-05-16 09:42:06";"Centro Médico Rosario";"antibi�tico";"triplicada";0;45020343;405304
+450;"2024-05-21 18:18:54";"Clínica San Martín";"terapia física";"simple";0;42230920;315226
+451;"2024-05-31 04:35:48";"";"terapia física";"simple";0;92655982;573652
+452;"2024-05-16 07:11:35";"";"cirugía";"simple";0;35446298;587356
+453;"2024-06-03 05:05:31";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;12128805;428122
+454;"2024-05-17 10:54:40";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;73000250;184576
+455;"2024-05-28 04:45:29";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;86376855;317398
+456;"2024-05-20 15:47:38";"Instituto de Salud Pública de Córdoba";"";"simple";0;61374904;227308
+457;"2024-06-04 08:25:21";"";"cirugía";"simple";0;70610007;113092
+458;"2024-06-01 05:40:21";"Centro Médico Rosario";"terapia física";"simple";0;62964585;406390
+459;"2024-06-06 18:28:44";"Sanatorio Belgrano";"terapia ocupacional";"simple";0;21997057;470134
+460;"2024-06-02 09:20:19";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;71719511;234034
+461;"2024-05-20 07:54:03";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;69312265;299680
+462;"2024-06-03 20:01:16";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;44321257;577084
+463;"2024-05-25 18:50:35";"Clínica San Martín";"antibi�tico";"duplicada";0;34973301;399028
+464;"2024-06-03 21:10:26";"Centro Médico Rosario";"terapia de grupo";"simple";0;90136395;216346
+465;"2024-06-06 14:40:20";"Hospital General de Buenos Aires";"antibi�tico";"duplicada";0;10474504;552838
+466;"2024-05-29 12:08:23";"Centro Médico Rosario";"terapia ocupacional";"simple";0;90136395;431890
+467;"2024-05-26 08:24:33";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;13998076;570322
+468;"2024-05-22 21:35:23";"Centro Médico Rosario";"psicotr�pico";"archivada";0;10474504;244522
+469;"2024-05-14 00:41:52";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;26751915;424786
+470;"2024-06-07 23:49:25";"Centro Médico Rosario";"antibi�tico";"archivada";0;35713262;413638
+471;"2024-05-26 15:48:38";"Sanatorio Belgrano";"acupuntura";"simple";0;14252328;548182
+472;"2024-05-22 15:10:14";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;52584627;540292
+473;"2024-05-24 10:02:02";"Clínica San Martín";"terapia ocupacional";"simple";0;35461908;266476
+474;"2024-05-19 10:47:53";"Clínica San Martín";"psicotr�pico";"archivada";0;21440470;332614
+475;"2024-05-18 11:25:06";"Centro Médico Rosario";"psicotr�pico";"archivada";0;32129211;397600
+476;"2024-05-26 18:09:57";"Hospital General de Buenos Aires";"antibi�tico";"duplicada";0;87377443;287602
+477;"2024-06-01 00:01:50";"Clínica San Martín";"cirugía";"simple";0;82798038;493582
+478;"2024-06-01 06:01:37";"";"cirugía";"simple";0;57049290;492586
+479;"2024-06-07 13:05:11";"";"acupuntura";"simple";0;79754597;209302
+480;"2024-06-01 15:19:05";"Clínica San Martín";"tratamiento con láser";"simple";0;37494023;125476
+481;"2024-05-19 08:04:42";"Sanatorio Belgrano";"terapia de grupo";"simple";0;13924480;489316
+482;"2024-06-06 18:33:22";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;69105700;122224
+483;"2024-05-21 12:32:46";"";"terapia ocupacional";"simple";0;88585237;266854
+484;"2024-06-02 15:05:29";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;38843283;451114
+485;"2024-06-07 03:49:08";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;72954152;430966
+486;"2024-05-16 07:02:56";"";"terapia física";"simple";0;67317964;155296
+487;"2024-05-29 04:59:30";"Clínica San Martín";"antibi�tico";"duplicada";1;65923387;186538
+488;"2024-05-22 20:00:38";"";"";"simple";0;40884458;421402
+489;"2024-05-16 22:22:49";"";"medicación";"simple";0;69986394;585568
+490;"2024-06-04 21:09:51";"Hospital General de Buenos Aires";"cirugía";"simple";0;34988337;401260
+491;"2024-05-28 22:36:04";"Centro Médico Rosario";"tratamiento con láser";"simple";0;12128805;407074
+492;"2024-06-06 08:46:43";"Centro Médico Rosario";"acupuntura";"simple";0;30537397;329962
+493;"2024-06-06 22:15:05";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;12128805;447754
+494;"2024-06-03 18:36:03";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;97084250;480442
+495;"2024-05-30 19:41:45";"Centro Médico Rosario";"cirugía";"simple";0;51940267;584050
+496;"2024-05-14 13:00:10";"";"antibi�tico";"duplicada";0;52818901;410560
+497;"2024-05-14 21:08:21";"Instituto de Salud Pública de Córdoba";"acupuntura";"simple";0;25351390;421402
+498;"2024-05-21 11:51:28";"Clínica San Martín";"psicotr�pico";"triplicada";0;32353994;211966
+499;"2024-05-15 07:30:24";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;49172161;416206
+500;"2024-05-22 19:44:04";"Clínica San Martín";"psicotr�pico";"archivada";0;16224051;126345
+501;"2024-06-01 11:57:19";"";"terapia de masajes";"simple";0;66068317;543610
+502;"2024-05-23 02:27:13";"Sanatorio Belgrano";"cirugía";"simple";0;74829108;507928
+503;"2024-05-19 16:18:55";"Centro Médico Rosario";"";"simple";0;18845261;134446
+504;"2024-05-14 02:39:45";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;27348315;280534
+505;"2024-05-17 19:13:22";"Sanatorio Belgrano";"terapia física";"simple";0;53688976;422764
+506;"2024-06-01 21:01:23";"Clínica San Martín";"antibi�tico";"triplicada";0;40884458;102760
+507;"2024-05-23 09:01:38";"Hospital General de Buenos Aires";"psicotr�pico";"archivada";0;19485033;497944
+508;"2024-06-02 06:41:04";"";"terapia de grupo";"simple";1;79114431;575044
+509;"2024-05-19 16:54:09";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;31761780;584824
+510;"2024-05-21 21:09:44";"Hospital General de Buenos Aires";"";"simple";0;35788571;581350
+511;"2024-05-29 06:43:22";"Clínica San Martín";"cirugía";"simple";0;89257418;410608
+512;"2024-05-18 21:03:03";"Clínica San Martín";"antibi�tico";"archivada";0;21997152;483478
+513;"2024-05-17 09:12:36";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;14135169;413638
+514;"2024-06-06 20:05:29";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";1;65125981;384022
+515;"2024-06-05 03:29:42";"Hospital General de Buenos Aires";"acupuntura";"simple";0;31440108;507754
+516;"2024-05-18 02:27:58";"";"medicación";"simple";0;22292091;330280
+517;"2024-05-15 00:56:39";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;50024689;342634
+518;"2024-06-04 10:13:14";"";"medicación";"simple";0;13612803;548704
+519;"2024-05-18 12:46:50";"";"cirugía";"simple";0;99613890;173110
+520;"2024-05-26 22:24:07";"";"";"simple";0;54370290;565378
+521;"2024-05-22 10:09:23";"Clínica San Martín";"tratamiento con láser";"simple";0;69377223;518266
+522;"2024-06-01 15:53:01";"Instituto de Salud Pública de Córdoba";"acupuntura";"simple";0;38172263;562438
+523;"2024-05-14 06:53:23";"Clínica San Martín";"terapia de grupo";"simple";1;64116052;221932
+524;"2024-05-16 10:25:46";"Hospital General de Buenos Aires";"antibi�tico";"triplicada";0;48125386;342904
+525;"2024-05-17 15:17:26";"";"terapia de grupo";"simple";0;98220619;293008
+526;"2024-05-21 01:49:51";"";"terapia de masajes";"simple";1;36810979;577084
+527;"2024-05-27 06:10:14";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;39676214;513532
+528;"2024-06-02 04:09:39";"";"cirugía";"simple";1;11166859;417238
+529;"2024-05-20 10:41:06";"";"terapia física";"simple";0;38201425;558022
+530;"2024-05-17 16:36:51";"";"tratamiento homeopático";"simple";1;19596856;489316
+531;"2024-06-02 16:04:09";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;79114431;394612
+532;"2024-05-27 16:07:24";"Clínica San Martín";"antibi�tico";"archivada";0;53148138;168496
+533;"2024-05-31 01:17:55";"";"antibi�tico";"archivada";0;99886821;259774
+534;"2024-05-27 20:24:24";"";"tratamiento homeopático";"simple";0;12128805;397306
+535;"2024-05-24 17:27:17";"Sanatorio Belgrano";"terapia de masajes";"simple";0;73291498;594904
+536;"2024-06-05 07:56:46";"Centro Médico Rosario";"terapia de masajes";"simple";1;53600584;303322
+537;"2024-05-26 05:35:40";"";"antibi�tico";"archivada";0;86376855;303478
+538;"2024-05-17 01:23:10";"";"terapia ocupacional";"simple";0;82683067;148018
+539;"2024-06-02 03:03:42";"Centro Médico Rosario";"terapia de masajes";"simple";0;44516639;397600
+540;"2024-05-23 15:57:28";"";"tratamiento homeopático";"simple";0;22131187;132820
+541;"2024-05-29 01:05:41";"";"psicotr�pico";"triplicada";0;65134337;531364
+542;"2024-05-28 17:16:45";"Hospital General de Buenos Aires";"cirugía";"simple";0;48022033;280534
+543;"2024-06-05 20:35:23";"";"tratamiento homeopático";"simple";0;83271313;409594
+544;"2024-06-05 05:34:47";"Clínica San Martín";"antibi�tico";"triplicada";0;64121971;523306
+545;"2024-05-24 01:33:11";"";"acupuntura";"simple";0;47151089;220750
+546;"2024-06-02 16:36:45";"Instituto de Salud Pública de Córdoba";"";"simple";0;30199257;230290
+547;"2024-05-26 15:25:27";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;96088162;229162
+548;"2024-05-19 09:20:32";"";"tratamiento con láser";"simple";0;13943347;380950
+549;"2024-05-24 08:44:29";"Clínica San Martín";"terapia física";"simple";0;90136395;270328
+550;"2024-05-17 06:43:26";"Centro Médico Rosario";"acupuntura";"simple";0;36649122;258040
+551;"2024-05-17 13:45:36";"Centro Médico Rosario";"";"simple";0;93057897;239134
+552;"2024-05-21 03:42:24";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;85196275;202360
+553;"2024-06-03 12:07:46";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";1;64488089;267802
+554;"2024-06-02 00:51:20";"";"tratamiento con láser";"simple";0;63192652;336760
+555;"2024-06-01 02:07:56";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"triplicada";0;79381924;590302
+556;"2024-05-31 20:25:54";"";"medicación";"simple";0;92730312;487714
+557;"2024-06-06 18:10:19";"Sanatorio Belgrano";"terapia ocupacional";"simple";0;35446298;244522
+558;"2024-05-31 16:01:15";"Clínica San Martín";"terapia ocupacional";"simple";0;28987104;434518
+559;"2024-05-28 22:25:36";"Instituto de Salud Pública de Córdoba";"medicación";"simple";1;27348315;345796
+560;"2024-06-05 00:54:29";"Centro Médico Rosario";"terapia de grupo";"simple";0;64116052;581290
+561;"2024-05-19 08:44:38";"Sanatorio Belgrano";"acupuntura";"simple";0;49596187;564718
+562;"2024-05-20 04:33:56";"Sanatorio Belgrano";"";"simple";0;26029058;336844
+563;"2024-05-15 02:34:29";"Clínica San Martín";"";"simple";0;84771759;581968
+564;"2024-05-23 01:23:49";"";"tratamiento con láser";"simple";0;69105700;501046
+565;"2024-05-24 03:52:51";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;87377443;399256
+566;"2024-05-23 13:40:06";"Sanatorio Belgrano";"terapia de grupo";"simple";0;45020343;236062
+567;"2024-06-06 23:22:46";"Clínica San Martín";"terapia de grupo";"simple";0;39053444;565378
+568;"2024-05-29 07:38:11";"";"cirugía";"simple";0;54370290;243880
+569;"2024-06-05 19:49:42";"";"antibi�tico";"triplicada";0;77084715;410608
+570;"2024-06-04 03:29:20";"Centro Médico Rosario";"cirugía";"simple";0;64121971;348406
+571;"2024-05-18 11:59:48";"Sanatorio Belgrano";"acupuntura";"simple";0;84385124;428122
+572;"2024-05-28 04:22:09";"";"psicotr�pico";"duplicada";0;49222077;413638
+573;"2024-06-06 14:08:22";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;53798045;342904
+574;"2024-05-18 19:26:09";"";"terapia de masajes";"simple";0;42259609;244522
+575;"2024-05-29 06:49:40";"Instituto de Salud Pública de Córdoba";"";"simple";0;52007891;409594
+576;"2024-06-07 21:57:45";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;48634934;234034
+577;"2024-06-02 00:12:27";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;47962084;417238
+578;"2024-05-26 03:01:29";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;22153307;182758
+579;"2024-05-14 07:16:38";"Instituto de Salud Pública de Córdoba";"";"simple";0;87380301;155296
+580;"2024-05-17 18:30:35";"Sanatorio Belgrano";"terapia de grupo";"simple";0;12450437;315226
+581;"2024-05-14 19:51:41";"Hospital General de Buenos Aires";"acupuntura";"simple";0;72439735;212536
+582;"2024-05-24 05:52:14";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;69312265;595678
+583;"2024-05-24 15:26:20";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;89647534;202072
+584;"2024-05-27 07:36:39";"";"terapia de grupo";"simple";0;21144588;157012
+585;"2024-06-01 10:44:28";"";"terapia de masajes";"simple";0;57919910;584050
+586;"2024-05-28 04:36:18";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;43053638;302296
+587;"2024-05-17 11:42:30";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";1;32294132;444700
+588;"2024-05-20 06:08:18";"Sanatorio Belgrano";"psicotr�pico";"duplicada";1;99243506;570322
+589;"2024-05-16 03:23:14";"Clínica San Martín";"medicación";"simple";0;55794215;510070
+590;"2024-05-19 07:51:14";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;48230553;489316
+591;"2024-05-22 02:13:16";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;33665705;363022
+592;"2024-05-27 21:25:59";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;85325092;565162
+593;"2024-05-22 12:39:36";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;70610007;549484
+594;"2024-06-03 14:34:52";"";"antibi�tico";"duplicada";0;68358683;589228
+595;"2024-05-21 16:16:35";"Clínica San Martín";"acupuntura";"simple";0;38201425;452824
+596;"2024-05-21 06:20:20";"Clínica San Martín";"antibi�tico";"duplicada";0;90707097;103720
+597;"2024-05-27 04:36:45";"Clínica San Martín";"psicotr�pico";"triplicada";0;71015624;300118
+598;"2024-06-03 12:57:33";"Clínica San Martín";"medicación";"simple";0;33665705;254848
+599;"2024-05-27 03:14:36";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"triplicada";0;13362601;342634
+600;"2024-06-06 22:15:29";"";"terapia física";"simple";0;38201425;112288
+601;"2024-05-26 10:55:43";"Clínica San Martín";"medicación";"simple";0;31457173;241444
+602;"2024-05-27 08:06:59";"Sanatorio Belgrano";"psicotr�pico";"duplicada";0;67143637;508282
+603;"2024-05-14 15:56:11";"";"antibi�tico";"duplicada";0;90855012;531364
+604;"2024-06-06 05:21:42";"Centro Médico Rosario";"terapia de masajes";"simple";0;65923387;280534
+605;"2024-05-29 04:50:20";"";"antibi�tico";"triplicada";0;80589157;151984
+606;"2024-06-05 04:43:24";"";"psicotr�pico";"archivada";1;41215288;221932
+607;"2024-05-23 18:26:26";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;25590889;480028
+608;"2024-05-20 16:12:36";"";"antibi�tico";"duplicada";0;63192652;216676
+609;"2024-05-30 11:51:53";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;96088162;239134
+610;"2024-05-23 13:11:41";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;92730312;582430
+611;"2024-05-25 08:19:35";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";1;53440840;549508
+612;"2024-05-28 17:27:04";"";"";"simple";0;45547271;520636
+613;"2024-05-24 16:15:24";"Sanatorio Belgrano";"antibi�tico";"duplicada";0;20448968;481414
+614;"2024-05-28 06:07:04";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;64849005;236476
+615;"2024-05-30 18:22:47";"Clínica San Martín";"cirugía";"simple";0;99886821;562438
+616;"2024-05-26 15:34:07";"Hospital General de Buenos Aires";"";"simple";0;18213002;416500
+617;"2024-05-24 03:10:03";"";"terapia ocupacional";"simple";0;85325092;470134
+618;"2024-05-18 07:36:52";"";"terapia de grupo";"simple";0;14591013;563530
+619;"2024-05-14 15:07:41";"";"psicotr�pico";"triplicada";0;52818901;181318
+620;"2024-05-15 20:54:01";"Clínica San Martín";"antibi�tico";"triplicada";1;44530216;407074
+621;"2024-05-29 05:49:17";"Sanatorio Belgrano";"medicación";"simple";0;57721839;159280
+622;"2024-05-16 16:44:39";"Clínica San Martín";"antibi�tico";"archivada";0;50024689;369772
+623;"2024-05-14 21:22:05";"Instituto de Salud Pública de Córdoba";"";"simple";0;81610733;405304
+624;"2024-05-15 12:03:30";"";"terapia ocupacional";"simple";1;24340612;199426
+625;"2024-05-21 18:41:43";"";"terapia de masajes";"simple";0;31457173;524590
+626;"2024-05-23 10:53:59";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;15443782;483478
+627;"2024-06-07 12:34:07";"Centro Médico Rosario";"medicación";"simple";0;79226212;500788
+628;"2024-06-06 13:51:14";"";"terapia de grupo";"simple";0;54560993;315226
+629;"2024-05-26 00:18:17";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";0;59893438;279280
+630;"2024-06-05 03:13:41";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;91682797;126058
+631;"2024-06-03 12:12:20";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;45020343;407074
+632;"2024-06-05 15:38:24";"";"cirugía";"simple";0;65134337;384004
+633;"2024-06-03 22:12:20";"Clínica San Martín";"medicación";"simple";0;46614709;221932
+634;"2024-05-16 23:05:52";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;94847000;353008
+635;"2024-05-19 05:20:58";"Sanatorio Belgrano";"";"simple";0;65125981;121846
+636;"2024-05-31 10:34:40";"";"antibi�tico";"duplicada";0;14495567;548704
+637;"2024-05-31 14:40:41";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;86959523;259774
+638;"2024-05-27 18:45:58";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;47962084;426346
+639;"2024-05-16 05:03:19";"Hospital General de Buenos Aires";"terapia de masajes";"simple";1;65903828;266854
+640;"2024-05-15 13:40:48";"";"tratamiento homeopático";"simple";0;56136728;496060
+641;"2024-06-07 02:59:01";"Centro Médico Rosario";"medicación";"simple";0;44530216;442828
+642;"2024-05-29 03:28:32";"";"medicación";"simple";0;53440840;581290
+643;"2024-05-28 20:40:00";"";"terapia cognitivo-conductual";"simple";0;21755685;243988
+644;"2024-06-03 01:44:25";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;84931288;132250
+645;"2024-05-19 17:15:54";"Sanatorio Belgrano";"psicotr�pico";"duplicada";0;13612803;187450
+646;"2024-06-02 00:32:34";"Sanatorio Belgrano";"terapia de masajes";"simple";0;26751915;485716
+647;"2024-05-21 18:40:34";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;83493541;487714
+648;"2024-05-24 04:50:33";"Clínica San Martín";"antibi�tico";"duplicada";0;82169374;267802
+649;"2024-05-24 22:55:44";"Centro Médico Rosario";"antibi�tico";"archivada";0;17269788;447754
+650;"2024-06-07 06:22:28";"Clínica San Martín";"acupuntura";"simple";0;42844501;270328
+651;"2024-05-16 05:31:37";"";"psicotr�pico";"duplicada";0;21025557;532678
+652;"2024-05-28 05:16:23";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;79114431;552724
+653;"2024-05-26 00:24:36";"Sanatorio Belgrano";"psicotr�pico";"duplicada";0;22131187;481414
+654;"2024-06-05 05:11:23";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";1;79754597;584050
+655;"2024-05-20 17:44:08";"Sanatorio Belgrano";"medicación";"simple";1;18853070;163204
+656;"2024-05-17 12:16:57";"Instituto de Salud Pública de Córdoba";"";"simple";1;45436296;592918
+657;"2024-05-18 10:05:27";"";"antibi�tico";"archivada";0;44417725;370738
+658;"2024-05-30 05:37:45";"";"terapia de masajes";"simple";1;99243506;465784
+659;"2024-06-02 22:54:40";"Hospital General de Buenos Aires";"cirugía";"simple";0;60693961;332176
+660;"2024-05-29 22:59:43";"";"medicación";"simple";0;21288619;349654
+661;"2024-05-27 09:08:06";"Clínica San Martín";"acupuntura";"simple";0;27400088;311566
+662;"2024-05-31 19:18:11";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;83964257;461902
+663;"2024-05-20 22:25:14";"Centro Médico Rosario";"psicotr�pico";"archivada";0;95153803;212536
+664;"2024-06-06 13:25:14";"Hospital General de Buenos Aires";"psicotr�pico";"triplicada";0;23544653;401260
+665;"2024-05-28 23:20:14";"";"terapia ocupacional";"simple";0;64669448;209302
+666;"2024-05-31 18:39:56";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;57049290;226564
+667;"2024-05-30 04:01:35";"";"antibi�tico";"triplicada";0;45369535;484504
+668;"2024-06-01 19:32:47";"Centro Médico Rosario";"terapia ocupacional";"simple";0;92655982;388216
+669;"2024-05-27 05:11:57";"";"psicotr�pico";"archivada";1;21440470;565378
+670;"2024-05-16 01:18:29";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"triplicada";0;96158340;564718
+671;"2024-05-30 15:57:12";"Centro Médico Rosario";"tratamiento con láser";"simple";0;64669448;493582
+672;"2024-05-19 19:32:38";"";"acupuntura";"simple";0;82798038;399028
+673;"2024-05-19 11:43:00";"Centro Médico Rosario";"acupuntura";"simple";0;34989690;470968
+674;"2024-05-16 10:31:28";"";"";"simple";0;27400088;506386
+675;"2024-05-28 11:10:23";"Centro Médico Rosario";"antibi�tico";"triplicada";0;54022289;496690
+676;"2024-06-05 06:48:08";"Hospital General de Buenos Aires";"acupuntura";"simple";1;74718043;394612
+677;"2024-05-25 23:53:26";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;44417725;204838
+678;"2024-05-23 20:40:19";"Clínica San Martín";"psicotr�pico";"triplicada";0;76595564;345796
+679;"2024-05-18 10:55:56";"";"terapia cognitivo-conductual";"simple";0;99886821;487192
+680;"2024-05-15 22:06:01";"Clínica San Martín";"antibi�tico";"triplicada";1;74755275;384004
+681;"2024-05-22 12:37:15";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;10825579;411112
+682;"2024-05-31 17:00:52";"";"terapia de grupo";"simple";0;75454424;558310
+683;"2024-06-07 00:29:26";"Hospital General de Buenos Aires";"terapia física";"simple";0;88465230;102760
+684;"2024-06-04 13:05:35";"";"antibi�tico";"archivada";0;82723998;467110
+685;"2024-05-18 02:30:08";"";"terapia de grupo";"simple";0;96060838;540292
+686;"2024-05-20 01:01:40";"Hospital General de Buenos Aires";"";"simple";0;16478694;241444
+687;"2024-05-26 11:27:08";"Centro Médico Rosario";"medicación";"simple";0;49596187;303478
+688;"2024-06-05 15:41:19";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";0;44221817;384004
+689;"2024-05-27 04:15:31";"";"tratamiento homeopático";"simple";0;57721839;209302
+690;"2024-05-26 15:19:01";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;64116052;575422
+691;"2024-05-22 13:48:52";"Instituto de Salud Pública de Córdoba";"terapia ocupacional";"simple";0;34740181;349654
+692;"2024-05-16 04:04:25";"Clínica San Martín";"terapia de grupo";"simple";0;47151089;236554
+693;"2024-05-20 15:46:58";"Clínica San Martín";"";"simple";0;25511741;371908
+694;"2024-05-24 02:52:59";"Sanatorio Belgrano";"acupuntura";"simple";0;48634934;112288
+695;"2024-05-14 22:52:52";"Clínica San Martín";"terapia cognitivo-conductual";"simple";0;25511741;187852
+696;"2024-05-31 05:07:50";"Instituto de Salud Pública de Córdoba";"antibi�tico";"duplicada";0;28056265;248230
+697;"2024-05-17 09:13:04";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;69452895;410608
+698;"2024-05-17 12:33:57";"";"terapia física";"simple";1;42402212;126058
+699;"2024-05-18 16:43:48";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;94280649;335776
+700;"2024-05-15 14:09:03";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;79951301;145150
+701;"2024-05-19 00:23:19";"Clínica San Martín";"medicación";"simple";0;14495567;585568
+702;"2024-05-25 18:29:28";"";"cirugía";"simple";0;59664447;416578
+703;"2024-05-28 19:20:21";"";"medicación";"simple";0;42844501;280534
+704;"2024-06-01 11:53:46";"";"cirugía";"simple";0;69200456;256324
+705;"2024-06-03 06:14:29";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;96060838;461902
+706;"2024-06-05 21:09:29";"";"terapia ocupacional";"simple";0;56136728;384022
+707;"2024-05-14 07:09:13";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;84931288;467506
+708;"2024-05-14 12:24:54";"";"terapia cognitivo-conductual";"simple";0;44221817;577084
+709;"2024-05-23 06:54:09";"";"psicotr�pico";"archivada";0;73944139;270328
+710;"2024-05-21 00:00:41";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;14484577;582544
+711;"2024-06-01 23:13:09";"";"terapia de grupo";"simple";1;68573402;477082
+712;"2024-05-29 06:46:29";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;61374904;433066
+713;"2024-05-20 23:58:22";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;30483767;227308
+714;"2024-05-19 11:46:39";"";"tratamiento con láser";"simple";0;95903814;200362
+715;"2024-05-24 21:50:31";"Sanatorio Belgrano";"cirugía";"simple";0;94889056;436036
+716;"2024-06-01 10:09:05";"Hospital General de Buenos Aires";"cirugía";"simple";0;35997890;296680
+717;"2024-06-04 20:45:40";"Clínica San Martín";"tratamiento homeopático";"simple";0;57993519;247600
+718;"2024-05-20 04:45:06";"Hospital General de Buenos Aires";"tratamiento homeopático";"simple";0;49335895;270718
+719;"2024-06-05 04:30:19";"";"acupuntura";"simple";0;49335895;380950
+720;"2024-05-16 15:22:08";"Centro Médico Rosario";"terapia de grupo";"simple";0;80799967;338620
+721;"2024-06-05 01:08:48";"Centro Médico Rosario";"terapia de masajes";"simple";0;89257418;467110
+722;"2024-05-14 03:27:27";"Sanatorio Belgrano";"medicación";"simple";0;67143637;492586
+723;"2024-06-05 22:31:35";"";"acupuntura";"simple";0;77268910;510070
+724;"2024-05-21 08:44:08";"Instituto de Salud Pública de Córdoba";"";"simple";0;64116052;413638
+725;"2024-05-18 11:03:54";"";"acupuntura";"simple";0;63192652;370738
+726;"2024-05-26 08:03:54";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;52007891;513022
+727;"2024-06-06 10:36:11";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;72503758;434518
+728;"2024-06-04 04:39:00";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;32570310;336760
+729;"2024-05-21 10:36:43";"Instituto de Salud Pública de Córdoba";"";"simple";0;89715979;233044
+730;"2024-05-18 04:19:39";"Hospital General de Buenos Aires";"terapia ocupacional";"simple";0;32294132;241966
+731;"2024-05-22 02:59:00";"";"antibi�tico";"duplicada";0;75454424;575044
+732;"2024-05-22 10:41:00";"Clínica San Martín";"tratamiento con láser";"simple";0;21467318;202360
+733;"2024-05-15 03:38:12";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";1;39256442;410560
+734;"2024-05-28 23:27:43";"Centro Médico Rosario";"";"simple";1;24340612;145150
+735;"2024-05-29 07:09:52";"";"terapia cognitivo-conductual";"simple";0;22153307;208426
+736;"2024-06-05 21:30:55";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;22591166;450628
+737;"2024-05-28 01:55:32";"Sanatorio Belgrano";"terapia de grupo";"simple";0;48347703;509572
+738;"2024-05-29 07:26:26";"";"psicotr�pico";"archivada";0;97577237;397600
+739;"2024-05-24 06:59:14";"Clínica San Martín";"";"simple";0;11238409;470638
+740;"2024-05-27 15:00:07";"";"terapia física";"simple";0;49222077;301792
+741;"2024-05-17 02:08:16";"";"psicotr�pico";"duplicada";0;84771759;234034
+742;"2024-06-03 03:49:30";"Centro Médico Rosario";"antibi�tico";"triplicada";0;52007891;581290
+743;"2024-05-14 04:13:18";"";"antibi�tico";"duplicada";0;14589726;262588
+744;"2024-06-07 20:52:11";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;69139425;280570
+745;"2024-06-05 08:14:33";"Hospital General de Buenos Aires";"cirugía";"simple";0;25879855;385564
+746;"2024-06-05 02:41:57";"Clínica San Martín";"terapia física";"simple";0;89075977;188626
+747;"2024-05-21 08:49:11";"Instituto de Salud Pública de Córdoba";"antibi�tico";"duplicada";0;31134978;133180
+748;"2024-06-06 20:16:21";"Clínica San Martín";"";"simple";0;43954364;287602
+749;"2024-05-26 12:01:36";"Clínica San Martín";"medicación";"simple";0;54194799;303190
+750;"2024-05-16 02:09:51";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;14180322;348406
+751;"2024-06-06 02:48:30";"";"terapia de masajes";"simple";0;89041653;163204
+752;"2024-05-21 00:24:15";"Clínica San Martín";"acupuntura";"simple";0;39711263;273838
+753;"2024-05-19 00:03:37";"Centro Médico Rosario";"antibi�tico";"duplicada";0;22153307;342904
+754;"2024-06-04 16:38:49";"Clínica San Martín";"terapia cognitivo-conductual";"simple";0;71719511;354772
+755;"2024-06-07 23:07:23";"Clínica San Martín";"tratamiento con láser";"simple";0;59502113;467506
+756;"2024-05-27 02:34:22";"Sanatorio Belgrano";"acupuntura";"simple";0;19347148;395140
+757;"2024-05-17 22:31:38";"";"tratamiento con láser";"simple";0;68077160;482206
+758;"2024-05-21 21:12:16";"Sanatorio Belgrano";"psicotr�pico";"triplicada";1;52881001;442828
+759;"2024-05-24 06:28:46";"";"terapia de grupo";"simple";0;25582305;582430
+760;"2024-06-07 05:20:06";"Clínica San Martín";"psicotr�pico";"triplicada";0;91793859;279280
+761;"2024-06-07 06:44:52";"";"cirugía";"simple";1;71253084;293008
+762;"2024-06-02 09:50:56";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;18853070;428122
+763;"2024-05-29 02:28:21";"Centro Médico Rosario";"cirugía";"simple";0;89647534;232366
+764;"2024-05-16 00:57:55";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;93671620;157012
+765;"2024-05-27 17:56:11";"Sanatorio Belgrano";"terapia ocupacional";"simple";0;51920333;202072
+766;"2024-06-01 12:23:07";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"duplicada";0;74755275;228490
+767;"2024-05-24 03:17:18";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";1;71015624;407074
+768;"2024-05-15 09:55:30";"";"antibi�tico";"triplicada";1;30503859;514336
+769;"2024-05-17 06:50:23";"Clínica San Martín";"medicación";"simple";0;14252328;331294
+770;"2024-06-02 23:19:26";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;90136395;155296
+771;"2024-06-05 14:32:42";"";"psicotr�pico";"archivada";0;11079960;535090
+772;"2024-05-16 10:42:38";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;66958667;103720
+773;"2024-06-02 15:27:41";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;53440840;434518
+774;"2024-05-28 23:13:54";"";"terapia ocupacional";"simple";0;79937942;408208
+775;"2024-05-22 13:36:14";"Centro Médico Rosario";"antibi�tico";"archivada";0;81036947;570322
+776;"2024-05-25 20:00:20";"";"terapia física";"simple";0;83633894;395140
+777;"2024-06-03 18:38:03";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";0;60874196;405616
+778;"2024-05-29 15:15:48";"Instituto de Salud Pública de Córdoba";"antibi�tico";"archivada";0;35409229;532678
+779;"2024-05-27 04:19:21";"Sanatorio Belgrano";"antibi�tico";"archivada";0;48634934;233044
+780;"2024-05-30 03:48:42";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;48022033;435040
+781;"2024-05-16 21:22:11";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;79246698;267802
+782;"2024-05-15 07:33:33";"Clínica San Martín";"";"simple";0;38172263;408208
+783;"2024-05-29 07:55:44";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;39581947;218404
+784;"2024-06-04 10:11:40";"Sanatorio Belgrano";"medicación";"simple";0;30606198;133180
+785;"2024-06-07 00:19:36";"";"cirugía";"simple";0;54337984;331294
+786;"2024-05-29 23:36:33";"Centro Médico Rosario";"psicotr�pico";"archivada";0;79246698;476866
+787;"2024-05-30 10:20:03";"Sanatorio Belgrano";"acupuntura";"simple";0;68358683;580246
+788;"2024-06-02 18:05:09";"Clínica San Martín";"tratamiento con láser";"simple";0;44321257;188626
+789;"2024-06-06 21:40:54";"";"acupuntura";"simple";0;65643965;388216
+790;"2024-05-24 03:22:33";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;60693961;270220
+791;"2024-05-21 15:29:01";"Instituto de Salud Pública de Córdoba";"";"simple";0;71253084;471424
+792;"2024-05-14 05:42:58";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;16327549;548182
+793;"2024-05-23 11:04:05";"Clínica San Martín";"terapia de grupo";"simple";1;25879855;345796
+794;"2024-06-02 19:34:47";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;91330006;332614
+795;"2024-05-28 02:57:00";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;57021719;589894
+796;"2024-05-17 15:05:01";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;65903828;135706
+797;"2024-06-05 11:10:38";"";"terapia de masajes";"simple";0;53600584;417238
+798;"2024-06-03 00:44:06";"Centro Médico Rosario";"terapia cognitivo-conductual";"simple";0;45436296;538222
+799;"2024-05-28 04:13:57";"";"terapia física";"simple";0;60198312;374332
+800;"2024-05-17 20:15:57";"Clínica San Martín";"terapia ocupacional";"simple";0;66680160;415186
+801;"2024-06-07 13:56:21";"";"cirugía";"simple";0;10825579;283240
+802;"2024-05-20 06:34:41";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;90097655;241444
+803;"2024-06-01 21:34:11";"Centro Médico Rosario";"terapia de grupo";"simple";0;34989690;302296
+804;"2024-05-25 13:46:09";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;73291498;465256
+805;"2024-05-30 06:19:35";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;41150912;155368
+806;"2024-05-15 11:29:08";"";"cirugía";"simple";0;16327549;340750
+807;"2024-06-07 01:47:39";"Sanatorio Belgrano";"terapia de masajes";"simple";0;20051552;524284
+808;"2024-06-03 16:40:49";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;31296008;135706
+809;"2024-05-18 20:20:17";"Centro Médico Rosario";"terapia de masajes";"simple";0;52818901;228490
+810;"2024-05-30 02:25:02";"Hospital General de Buenos Aires";"terapia física";"simple";0;42402212;232366
+811;"2024-06-04 19:41:02";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;64620354;502984
+812;"2024-05-14 03:47:57";"Clínica San Martín";"acupuntura";"simple";0;33943237;549484
+813;"2024-05-30 05:12:46";"Clínica San Martín";"tratamiento homeopático";"simple";0;69139425;571882
+814;"2024-05-27 16:30:16";"Hospital General de Buenos Aires";"antibi�tico";"duplicada";0;87377443;394612
+815;"2024-06-07 07:48:23";"";"";"simple";0;22153307;532678
+816;"2024-05-25 15:47:16";"";"acupuntura";"simple";0;60874196;575422
+817;"2024-06-01 10:54:30";"";"antibi�tico";"duplicada";1;89439912;431890
+818;"2024-05-18 00:08:30";"";"acupuntura";"simple";0;77084715;182758
+819;"2024-05-22 08:42:50";"Centro Médico Rosario";"psicotr�pico";"duplicada";0;91294007;266854
+820;"2024-05-23 21:08:09";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;29453626;341140
+821;"2024-05-19 03:15:24";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;48184043;362110
+822;"2024-05-29 17:00:10";"";"antibi�tico";"triplicada";0;12498035;592918
+823;"2024-05-21 04:19:51";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;18213002;155296
+824;"2024-05-14 19:34:53";"";"terapia de masajes";"simple";1;49385526;110980
+825;"2024-05-21 21:26:24";"Sanatorio Belgrano";"";"simple";0;46257963;517336
+826;"2024-05-26 14:41:05";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;21755685;180844
+827;"2024-06-07 12:21:12";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;23170986;168496
+828;"2024-05-15 08:39:22";"Instituto de Salud Pública de Córdoba";"antibi�tico";"triplicada";0;54370290;487192
+829;"2024-05-16 07:23:07";"Centro Médico Rosario";"antibi�tico";"duplicada";0;32681211;558022
+830;"2024-06-03 21:25:12";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;42608781;161836
+831;"2024-06-07 19:54:55";"";"psicotr�pico";"triplicada";0;30537397;514336
+832;"2024-05-28 10:59:33";"";"tratamiento con láser";"simple";0;94454199;592792
+833;"2024-05-29 19:21:55";"";"tratamiento homeopático";"simple";0;42259609;374332
+834;"2024-05-27 02:56:34";"";"psicotr�pico";"triplicada";0;29735594;551644
+835;"2024-05-19 10:53:46";"";"tratamiento homeopático";"simple";0;21440470;286930
+836;"2024-05-31 07:25:15";"";"antibi�tico";"archivada";0;11489420;102760
+837;"2024-05-19 10:49:30";"Centro Médico Rosario";"terapia de grupo";"simple";0;77802378;342634
+838;"2024-05-20 16:14:30";"";"antibi�tico";"duplicada";0;42844501;425566
+839;"2024-05-17 23:37:38";"Centro Médico Rosario";"cirugía";"simple";0;64450270;481414
+840;"2024-06-05 02:11:01";"Hospital General de Buenos Aires";"psicotr�pico";"archivada";0;93382185;444700
+841;"2024-06-03 11:23:30";"";"";"simple";0;73291498;209302
+842;"2024-05-31 21:15:27";"Clínica San Martín";"terapia cognitivo-conductual";"simple";0;19080050;401260
+843;"2024-05-29 02:31:42";"Sanatorio Belgrano";"medicación";"simple";0;32129211;161836
+844;"2024-05-30 23:57:41";"";"medicación";"simple";0;79642191;399256
+845;"2024-06-01 08:15:28";"Instituto de Salud Pública de Córdoba";"terapia cognitivo-conductual";"simple";0;13653635;408208
+846;"2024-05-27 11:59:25";"Hospital General de Buenos Aires";"antibi�tico";"archivada";0;36649122;155296
+847;"2024-05-28 21:23:01";"Clínica San Martín";"tratamiento con láser";"simple";0;75192003;249112
+848;"2024-05-27 06:05:05";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;44321257;156046
+849;"2024-05-21 08:44:16";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"duplicada";1;58303482;301792
+850;"2024-06-07 12:56:33";"";"antibi�tico";"archivada";0;56282315;524284
+851;"2024-06-05 00:09:19";"Centro Médico Rosario";"tratamiento con láser";"simple";0;12498035;532828
+852;"2024-05-15 04:54:32";"Instituto de Salud Pública de Córdoba";"tratamiento homeopático";"simple";0;59502113;135706
+853;"2024-05-14 06:14:28";"Instituto de Salud Pública de Córdoba";"tratamiento con láser";"simple";0;59893438;572224
+854;"2024-06-05 18:17:27";"Sanatorio Belgrano";"terapia de grupo";"simple";0;60874196;527266
+855;"2024-05-27 18:12:01";"Clínica San Martín";"terapia de grupo";"simple";0;13924480;229162
+856;"2024-06-03 01:55:01";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;79226212;266476
+857;"2024-05-21 18:58:13";"Hospital General de Buenos Aires";"acupuntura";"simple";0;91793859;120412
+858;"2024-05-18 15:15:42";"Clínica San Martín";"antibi�tico";"duplicada";0;33665705;159280
+859;"2024-06-01 13:04:22";"";"cirugía";"simple";0;91793859;311566
+860;"2024-06-03 08:01:22";"";"cirugía";"simple";0;16347814;260122
+861;"2024-05-15 18:27:27";"Sanatorio Belgrano";"terapia física";"simple";0;99401457;410608
+862;"2024-05-14 06:07:32";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;94280649;438004
+863;"2024-05-31 02:11:52";"";"acupuntura";"simple";0;26094445;251782
+864;"2024-06-06 00:33:18";"Hospital General de Buenos Aires";"psicotr�pico";"duplicada";0;13612803;558022
+865;"2024-05-31 17:25:36";"";"psicotr�pico";"duplicada";0;59893438;349654
+866;"2024-05-16 05:51:06";"Clínica San Martín";"acupuntura";"simple";0;52347397;268678
+867;"2024-05-27 06:19:49";"Sanatorio Belgrano";"";"simple";0;60360637;426346
+868;"2024-05-24 23:51:19";"Instituto de Salud Pública de Córdoba";"";"simple";0;42402212;293008
+869;"2024-06-02 23:02:22";"";"acupuntura";"simple";0;60874196;439678
+870;"2024-05-22 16:30:26";"Clínica San Martín";"tratamiento con láser";"simple";0;34934286;423160
+871;"2024-05-15 03:57:25";"Centro Médico Rosario";"antibi�tico";"duplicada";0;86959523;370510
+872;"2024-05-30 16:05:52";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"archivada";0;49335895;370738
+873;"2024-05-21 07:13:31";"Centro Médico Rosario";"medicación";"simple";0;64359320;466666
+874;"2024-06-06 03:00:33";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;20285168;218404
+875;"2024-05-14 06:27:44";"Centro Médico Rosario";"";"simple";0;14495567;247138
+876;"2024-06-04 13:46:43";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";1;69105700;341140
+877;"2024-06-07 08:55:37";"Centro Médico Rosario";"medicación";"simple";1;29932717;502984
+878;"2024-05-28 13:43:12";"";"cirugía";"simple";0;23170986;331300
+879;"2024-05-17 15:32:37";"";"tratamiento con láser";"simple";0;29453626;243988
+880;"2024-05-16 18:35:46";"Sanatorio Belgrano";"psicotr�pico";"triplicada";1;80615019;332614
+881;"2024-05-22 08:37:03";"";"terapia de masajes";"simple";0;81829099;434518
+882;"2024-05-31 06:01:38";"Centro Médico Rosario";"tratamiento con láser";"simple";0;49596187;184444
+883;"2024-05-25 16:17:49";"";"medicación";"simple";0;12450437;540292
+884;"2024-05-15 09:00:23";"Centro Médico Rosario";"terapia de grupo";"simple";0;85606083;410938
+885;"2024-05-20 08:44:38";"Clínica San Martín";"terapia de masajes";"simple";0;90707097;212536
+886;"2024-05-16 08:51:33";"";"acupuntura";"simple";0;79951301;388216
+887;"2024-06-01 16:52:49";"Hospital General de Buenos Aires";"cirugía";"simple";1;71719511;584050
+888;"2024-05-22 10:48:34";"";"antibi�tico";"archivada";0;65980954;484504
+889;"2024-05-14 21:47:25";"Centro Médico Rosario";"terapia ocupacional";"simple";0;95903814;132250
+890;"2024-05-29 00:38:47";"Clínica San Martín";"";"simple";0;93954865;311164
+891;"2024-06-07 04:24:39";"Centro Médico Rosario";"acupuntura";"simple";1;21288619;209302
+892;"2024-05-15 14:53:42";"Centro Médico Rosario";"psicotr�pico";"triplicada";0;37494023;562438
+893;"2024-05-21 20:38:05";"";"psicotr�pico";"triplicada";0;34959114;116860
+894;"2024-05-28 17:22:16";"";"terapia ocupacional";"simple";0;59052067;597982
+895;"2024-05-20 16:55:09";"Clínica San Martín";"medicación";"simple";0;86376855;317200
+896;"2024-05-19 15:08:42";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;85196275;355534
+897;"2024-06-07 03:00:13";"";"acupuntura";"simple";0;88904354;423022
+898;"2024-05-26 03:59:32";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;72503758;230290
+899;"2024-06-03 22:18:22";"";"antibi�tico";"triplicada";0;56282315;558310
+900;"2024-05-24 10:40:52";"Clínica San Martín";"psicotr�pico";"duplicada";0;11238409;132250
+901;"2024-05-27 00:03:13";"";"acupuntura";"simple";0;43053638;221932
+902;"2024-05-22 12:53:32";"";"cirugía";"simple";0;52007891;579232
+903;"2024-05-28 12:45:46";"";"psicotr�pico";"duplicada";0;94776699;506386
+904;"2024-05-31 08:17:10";"";"";"simple";1;14906875;193906
+905;"2024-06-07 04:59:52";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;59664447;377788
+906;"2024-05-19 05:32:27";"Sanatorio Belgrano";"medicación";"simple";0;57919910;311566
+907;"2024-06-02 19:44:52";"Sanatorio Belgrano";"terapia ocupacional";"simple";0;91330006;287602
+908;"2024-06-05 22:15:11";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;61523824;345652
+909;"2024-06-04 02:38:31";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;73814517;236554
+910;"2024-06-02 08:08:52";"";"antibi�tico";"duplicada";0;95903814;134446
+911;"2024-05-26 22:13:41";"Clínica San Martín";"tratamiento con láser";"simple";0;62690265;507754
+912;"2024-05-17 10:11:18";"Clínica San Martín";"acupuntura";"simple";0;28521677;581290
+913;"2024-06-06 23:41:12";"";"terapia de masajes";"simple";0;61374904;539668
+914;"2024-05-26 20:38:19";"Clínica San Martín";"psicotr�pico";"triplicada";1;27528905;476866
+915;"2024-06-05 03:05:18";"";"psicotr�pico";"archivada";0;18853070;532678
+916;"2024-06-03 11:55:08";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;99613890;416578
+917;"2024-05-29 16:08:21";"Hospital General de Buenos Aires";"";"simple";0;79937942;399472
+918;"2024-05-29 07:44:07";"";"terapia de grupo";"simple";0;89439912;454438
+919;"2024-05-26 14:00:21";"Clínica San Martín";"acupuntura";"simple";0;13998076;254944
+920;"2024-05-23 19:18:01";"Clínica San Martín";"antibi�tico";"archivada";0;81351237;518554
+921;"2024-05-22 04:31:15";"";"antibi�tico";"triplicada";0;94889056;442828
+922;"2024-05-20 08:26:04";"Hospital General de Buenos Aires";"terapia de grupo";"simple";0;83964257;552496
+923;"2024-06-03 09:26:08";"Sanatorio Belgrano";"";"simple";0;28182956;402484
+924;"2024-05-31 10:44:49";"";"antibi�tico";"duplicada";0;90097655;394612
+925;"2024-05-27 01:35:13";"Clínica San Martín";"psicotr�pico";"duplicada";0;50196129;370510
+926;"2024-05-24 03:30:54";"Sanatorio Belgrano";"medicación";"simple";0;88585237;294028
+927;"2024-06-07 14:20:18";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;33665705;161842
+928;"2024-05-31 19:25:08";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;64926650;371908
+929;"2024-05-20 08:47:29";"Sanatorio Belgrano";"antibi�tico";"triplicada";0;44530216;332614
+930;"2024-05-30 21:35:38";"";"terapia física";"simple";0;37494023;552724
+931;"2024-05-17 08:45:24";"Clínica San Martín";"tratamiento con láser";"simple";0;83271313;570322
+932;"2024-05-31 07:02:44";"Instituto de Salud Pública de Córdoba";"psicotr�pico";"duplicada";0;43008364;421402
+933;"2024-05-20 23:19:23";"";"psicotr�pico";"duplicada";1;38201425;408208
+934;"2024-05-23 03:07:41";"Centro Médico Rosario";"tratamiento con láser";"simple";0;34611302;514336
+935;"2024-05-25 19:54:54";"";"medicación";"simple";0;39711263;543256
+936;"2024-05-18 16:39:47";"Hospital General de Buenos Aires";"terapia física";"simple";0;82169374;270220
+937;"2024-05-23 05:56:42";"Sanatorio Belgrano";"terapia cognitivo-conductual";"simple";0;45547271;148018
+938;"2024-05-31 02:26:20";"";"medicación";"simple";1;97983751;125476
+939;"2024-05-23 18:46:59";"";"psicotr�pico";"triplicada";0;52542289;354772
+940;"2024-06-03 14:30:07";"";"tratamiento con láser";"simple";1;65980954;273838
+941;"2024-05-18 19:11:28";"";"terapia cognitivo-conductual";"simple";0;69105700;577336
+942;"2024-05-14 02:01:26";"Instituto de Salud Pública de Córdoba";"terapia de masajes";"simple";0;70903456;438004
+943;"2024-05-26 21:49:56";"Clínica San Martín";"terapia cognitivo-conductual";"simple";0;43954364;135706
+944;"2024-05-27 15:06:23";"Clínica San Martín";"psicotr�pico";"triplicada";0;95153803;202072
+945;"2024-05-29 02:44:56";"";"terapia de masajes";"simple";0;49222077;207784
+946;"2024-06-04 15:16:07";"";"tratamiento homeopático";"simple";0;23544653;371908
+947;"2024-05-29 17:30:46";"";"";"simple";0;80615019;317716
+948;"2024-05-30 23:51:20";"Clínica San Martín";"antibi�tico";"duplicada";0;44221817;253288
+949;"2024-05-23 01:06:35";"";"medicación";"simple";0;39711263;597982
+950;"2024-05-23 08:22:59";"Hospital General de Buenos Aires";"psicotr�pico";"archivada";0;18213002;462640
+951;"2024-06-03 05:58:02";"Sanatorio Belgrano";"tratamiento con láser";"simple";0;91764639;346870
+952;"2024-06-07 03:04:25";"";"cirugía";"simple";0;54370290;496690
+953;"2024-06-02 16:06:50";"Clínica San Martín";"terapia física";"simple";0;55508613;384022
+954;"2024-06-04 04:28:55";"";"terapia de grupo";"simple";0;67822713;430966
+955;"2024-05-23 20:29:43";"";"terapia de grupo";"simple";0;33943237;148120
+956;"2024-05-21 22:30:44";"";"terapia de masajes";"simple";0;33665705;212620
+957;"2024-06-06 06:55:15";"";"terapia cognitivo-conductual";"simple";0;86376855;416206
+958;"2024-05-15 05:52:57";"";"terapia de masajes";"simple";0;48230553;187852
+959;"2024-05-28 04:58:47";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;99243506;287602
+960;"2024-05-18 20:09:48";"";"cirugía";"simple";0;23223808;487192
+961;"2024-05-24 16:41:42";"Centro Médico Rosario";"antibi�tico";"archivada";0;37494023;113524
+962;"2024-06-04 02:03:22";"Instituto de Salud Pública de Córdoba";"cirugía";"simple";0;48022033;496060
+963;"2024-05-17 03:54:40";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";0;14495567;286930
+964;"2024-05-17 12:44:37";"Instituto de Salud Pública de Córdoba";"terapia física";"simple";0;52818901;344602
+965;"2024-06-07 20:45:02";"";"antibi�tico";"archivada";0;82723998;190096
+966;"2024-05-15 21:04:18";"Hospital General de Buenos Aires";"antibi�tico";"triplicada";1;66068317;241966
+967;"2024-05-14 20:39:47";"Sanatorio Belgrano";"psicotr�pico";"triplicada";0;70866611;204838
+968;"2024-05-25 11:37:09";"";"psicotr�pico";"triplicada";1;99243506;454438
+969;"2024-05-20 17:03:35";"Centro Médico Rosario";"terapia física";"simple";0;72439735;575044
+970;"2024-06-03 04:24:43";"Hospital General de Buenos Aires";"terapia física";"simple";0;49596187;340822
+971;"2024-06-04 07:47:27";"Hospital General de Buenos Aires";"terapia de masajes";"simple";0;80355727;251782
+972;"2024-05-24 21:18:55";"";"cirugía";"simple";0;64849005;112288
+973;"2024-05-21 12:07:17";"Hospital General de Buenos Aires";"terapia cognitivo-conductual";"simple";0;18490659;401260
+974;"2024-06-01 11:13:49";"Sanatorio Belgrano";"terapia de masajes";"simple";1;90855012;507754
+975;"2024-05-25 12:09:21";"Hospital General de Buenos Aires";"tratamiento con láser";"simple";1;57919910;216676
+976;"2024-05-29 23:52:25";"";"terapia de masajes";"simple";0;18845261;243988
+977;"2024-05-15 11:36:26";"Hospital General de Buenos Aires";"";"simple";0;81610733;416578
+978;"2024-05-31 21:18:46";"Centro Médico Rosario";"tratamiento con láser";"simple";0;49385526;283240
+979;"2024-05-21 11:00:06";"Hospital General de Buenos Aires";"psicotr�pico";"triplicada";1;57187470;461902
+980;"2024-05-23 16:05:17";"";"acupuntura";"simple";0;26029058;405304
+981;"2024-05-25 00:16:22";"Instituto de Salud Pública de Córdoba";"medicación";"simple";0;65007748;254848
+982;"2024-05-17 23:55:02";"Sanatorio Belgrano";"tratamiento homeopático";"simple";0;27400088;487192
+983;"2024-05-24 14:11:17";"";"antibi�tico";"duplicada";1;25351390;436036
+984;"2024-05-20 01:59:30";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;70848986;581968
+985;"2024-06-02 16:47:51";"Centro Médico Rosario";"medicación";"simple";0;36969345;402484
+986;"2024-05-14 13:45:22";"Sanatorio Belgrano";"antibi�tico";"archivada";0;44530216;224002
+987;"2024-05-25 07:37:12";"Centro Médico Rosario";"tratamiento homeopático";"simple";0;99240067;156046
+988;"2024-06-07 04:30:24";"Clínica San Martín";"medicación";"simple";0;53600584;317398
+989;"2024-05-17 06:26:24";"Clínica San Martín";"antibi�tico";"duplicada";0;65134337;228490
+990;"2024-05-20 08:29:29";"Instituto de Salud Pública de Córdoba";"acupuntura";"simple";0;90768757;362692
+991;"2024-05-21 06:55:27";"Sanatorio Belgrano";"tratamiento homeopático";"simple";1;70573301;425566
+992;"2024-06-01 15:47:13";"Sanatorio Belgrano";"";"simple";0;70866611;249112
+993;"2024-06-07 09:43:44";"Clínica San Martín";"cirugía";"simple";0;45369535;120412
+994;"2024-05-29 09:59:04";"Sanatorio Belgrano";"terapia de grupo";"simple";0;25590889;493582
+995;"2024-05-24 07:34:41";"Clínica San Martín";"terapia de grupo";"simple";0;45369535;442828
+996;"2024-05-31 14:28:21";"";"antibi�tico";"duplicada";0;38172263;531364
+997;"2024-06-01 10:09:29";"Centro Médico Rosario";"terapia física";"simple";0;77978929;580534
+998;"2024-05-30 16:13:21";"";"";"simple";0;88830475;369772
+999;"2024-06-01 21:13:40";"Instituto de Salud Pública de Córdoba";"terapia de grupo";"simple";0;39256442;236062
+1000;"2024-06-05 22:28:21";"Clínica San Martín";"antibi�tico";"duplicada";0;59707538;405616
