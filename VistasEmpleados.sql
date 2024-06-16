@@ -23,7 +23,7 @@ CREATE VIEW `PuntajeProm_EmpleadosPerfumería` AS
 				Nombre_Empleado,
 				Farmacia,
 				PuntajeProm
-            FROM PuntajeProm_Empleado PPE
+            FROM PuntajeProm_Empleados PPE
 			JOIN empleadoperfumería EP ON PPE.DNI_Empleado = EP.Empleado_DNI_empleado
     ) PPEP
     LEFT OUTER JOIN empleadoperfumería_asesora_sector EPAS ON EPAS.EmpleadoPerfumería_Empleado_DNI_empleado = PPEP.DNI_Empleado
@@ -42,7 +42,7 @@ CREATE VIEW `PuntajeProm_Farmacéuticos` AS
 			END AS Responsable,
 			PPE.Farmacia,
 			PPE.PuntajeProm
-	FROM PuntajeProm_Empleado PPE
+	FROM PuntajeProm_Empleados PPE
 	JOIN Farmacéutico F ON PPE.DNI_Empleado = F.Empleado_DNI_empleado
 	ORDER BY PPE.PuntajeProm DESC
 );
