@@ -78,7 +78,7 @@ CREATE VIEW `Laboratorios_ParaContactar` AS
 
 DROP VIEW IF EXISTS `Lotes_PorVencer`;
 CREATE VIEW `Lotes_PorVencer` AS
-(
+( -- lotes que vencen en los próximos 2 meses
     SELECT
         L.Id_lote,
         P.Nombre_Producto as Medicamento,

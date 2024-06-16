@@ -20,4 +20,3 @@ LIMIT 1;
 -- En nuestro esquema, generico es atributo de receta, no propio de medicamento (es decir, depende de cómo se recetó -> para un medicamento podemos tener una receta genérica y otra no)
 
 
-
