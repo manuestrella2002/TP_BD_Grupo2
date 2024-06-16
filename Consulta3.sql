@@ -10,13 +10,14 @@ JOIN Pami P1 ON P1.ObraSocial_Id_obra_social = M.PAMI_ObraSocial_Id_obra_social
 JOIN Carnet Car ON Car.Cliente_DNI_cliente = R.cliente_DNI_cliente
 JOIN Plan Pl ON Pl.Id_plan = Car.plan_Id_plan
 JOIN Pami P2 ON P2.ObraSocial_Id_obra_social = Pl.ObraSocial_Id_obra_social
-LEFT JOIN descuento_planobrasocial DP ON DP.Plan_Id_Plan = Car.Plan_Id_Plan AND DP.Medicamento_Producto_idProducto = Pr.idProducto
+LEFT JOIN descuento_planobrasocial DP ON DP.Plan_Id_Plan = Car.Plan_Id_Plan 
+									  AND DP.Medicamento_Producto_idProducto = Pr.idProducto
 WHERE year(R.Fecha_emision_receta) BETWEEN '2023-12-01 00:00:00' AND '2024-02-29 23:59:59' 
-		AND M.Num_matrícula = 126345
+	  AND M.Num_matrícula = 126345
 GROUP BY Pr.Nombre_producto, DP.Porcentaje
 ORDER BY cant_recetas DESC
 LIMIT 1;
--- En nuestro esquema, generico es atributo de receta, no propio de medicamento (es decir, depende de cómo se recetó)
+-- En nuestro esquema, generico es atributo de receta, no propio de medicamento (es decir, depende de cómo se recetó -> para un medicamento podemos tener una receta genérica y otra no)
 
 
 
