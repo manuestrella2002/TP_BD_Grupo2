@@ -1,6 +1,7 @@
--- Ordene de más usada a menos usada, las cinco opciones de pago para medicamentos de los últimos cinco meses 
--- y las cinco opciones de pago de perfumería (excluyendo bebés y pañales de adultos). 
+-- CONSULTA 6 --
+-- Ordene de más usada a menos usada, las cinco opciones de pago para medicamentos de los últimos cinco meses y las cinco opciones de pago de perfumería (excluyendo bebés y pañales de adultos). 
 
+-- Para medicamentos de los últimos cinco meses:
 SELECT	c.Metodo_pago,
 		COUNT(*) AS Uso
 FROM Compra c
@@ -11,6 +12,7 @@ GROUP BY C.Metodo_pago
 ORDER BY Uso DESC
 LIMIT 5;
 
+-- De perfumería (excluyendo bebés y pañales de adultos)
 SELECT	c.Metodo_pago,
 		COUNT(*) AS Uso
 FROM Compra c

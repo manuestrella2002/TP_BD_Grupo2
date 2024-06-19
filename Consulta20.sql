@@ -1,5 +1,5 @@
--- OTROS CLIENTES TAMBIÉN COMPRARON...
--- Recomendaciones: qué otros 5 productos más compraron las personas que compraron 'paniales'
+-- CONSULTA 20: RECOMENDACIONES - Otros clientes también compraron...
+-- Qué otros 5 productos más compraron las personas que compraron 'paniales'
 
 WITH ProductoReferencia AS (
     SELECT idProducto

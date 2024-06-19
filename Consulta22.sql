@@ -1,4 +1,4 @@
--- ¿HACER PROMOCIONES ONLINE?
+-- CONSULTA 22: ¿hacer promociones online? --
 -- Hallar incidencia compras online sobre total de las ventas y top 3 artículos en carritos que no se concretaron.
 
 -- Subconsulta para determinar las compras online (realizadas)
@@ -33,7 +33,7 @@ WITH ArticulosNoConcretados AS (
     GROUP BY co.ArtículoPerfumería_Producto_idproducto
 )
 SELECT
-    an.Producto_idProducto, p.Nombre_producto, an.CantidadNoConcretada
+    p.Nombre_producto, an.CantidadNoConcretada
 FROM ArticulosNoConcretados AS an
 JOIN ArtículoPerfumería AS ap ON an.Producto_idProducto = ap.Producto_idProducto
 JOIN producto AS p ON p.idProducto = ap.Producto_idProducto

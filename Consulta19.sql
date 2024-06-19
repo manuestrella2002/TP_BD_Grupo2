@@ -1,4 +1,5 @@
--- Medicamentos equivalentes: mismas drogas
+-- CONSULTA 19: Medicamentos equivalentes --
+-- Búsqueda de medicamentos con las mismas drogas
 
 with MedicamentosEquivalentes as (
 SELECT m1.Medicamento_Producto_idProducto AS Medicamento1, 

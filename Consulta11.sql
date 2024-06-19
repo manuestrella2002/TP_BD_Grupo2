@@ -1,5 +1,4 @@
--- Cu·l es la matricula del farmacÈutico que atiende la farmacia que recibe m·s lotes de Ibuprofeno del laboratorio 
--- Bayer?
+-- Cu√°l es la matricula del farmac√©utico que atiende la farmacia que recibe m√°s lotes de Ibuprofeno del laboratorio Dietrich, Ondricka and Harris?
 -- Encuentra los id de laboratorios que vendan Ibuprofeno y el id del medicamento
 
 WITH IbuprofenoBayer AS (
@@ -11,7 +10,7 @@ WITH IbuprofenoBayer AS (
 LaboratoriosBayer AS (
     SELECT l.Id_Laboratorio
     FROM Laboratorio AS l
-    WHERE l.Nombre_Laboratorio LIKE '%Bayer'
+    WHERE l.Nombre_Laboratorio LIKE '%Dietrich, Ondricka and Harris'
 ),
 FarmaciasConIbuprofeno AS (
     SELECT fvm.farmacia_Id_farmacia
@@ -22,7 +21,8 @@ FarmaciasConIbuprofeno AS (
     ORDER BY COUNT(*) DESC
     LIMIT 1
 )
-SELECT f.Matricula_nacional
-FROM Farmaceutico AS f
+SELECT f.Matr√≠cula_nacional
+FROM Farmac√©utico AS f
 JOIN Empleado AS e ON f.Empleado_DNI_empleado = e.DNI_empleado
 JOIN FarmaciasConIbuprofeno AS fc ON e.Farmacia_Id_farmacia = fc.farmacia_Id_farmacia;
+

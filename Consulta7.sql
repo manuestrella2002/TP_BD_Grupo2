@@ -1,5 +1,5 @@
--- Consulta que determina el perfil etario de clientes. 
--- Es decir, el sector que más compran por rango etario (cada 20 años) y cuánta plata gastan en promedio
+-- CONSULTA 7: PERFIL ETARIO --  
+-- El sector que más compran por rango etario (cada 20 años) y cuánta plata gastan en promedio
 
 WITH Rango_Etario_Sector AS (
 -- totales de compras y el gasto promedio por sector y rango etario
@@ -10,14 +10,14 @@ WITH Rango_Etario_Sector AS (
             WHEN TIMESTAMPDIFF(YEAR, cli.Fecha_nacimiento, CURDATE()) BETWEEN 40 AND 59 THEN '40-59'
             ELSE '60+'
         END AS Rango_Etario,
-        Art.Sector_Id_sector,
+        AP.Sector_Id_sector,
         COUNT(*) AS Total_Compras,
         AVG(CHP.PrecioUnitario * CHP.Cantidad * (1 - CHP.Descuento / 100)) AS Gasto_Promedio
     FROM Compra Com
     JOIN Compra_has_Producto CHP ON Com.idCompra = CHP.Compra_idCompra
     JOIN ArtículoPerfumería AP ON CHP.Producto_idProducto = AP.Producto_idProducto
     JOIN Cliente Cli ON Com.Cliente_DNI_cliente = Cli.DNI_cliente
-    GROUP BY Rango_Etario, Art.Sector_Id_sector
+    GROUP BY Rango_Etario, AP.Sector_Id_sector
 ),
 Ranked_Sectors AS (
 -- para asignar un número de fila a cada combinación de rango etario y sector

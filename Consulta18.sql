@@ -1,7 +1,8 @@
---  Farmacias de turno en el día de la fecha en X localidad que tenga X medicamento
+-- CONSULTA 18: Fluoxetina de urgencia -- 
+--  Farmacias de turno en el día de la fecha en la localidad de 'Rafaela' que tenga 'Fluoxetina'
 
-select f.Id_farmacia, 
-		CONCAT(F.Direccion_calle, " ", CONVERT(F.Direccion_número, CHAR(10)), ", CP ", F.Direccion_codigopostal, ", ", F.Direccion_localidad, ", ", F.Direccion_provincia) as Direccion_Farmacia
+SELECT DISTINCT f.Id_farmacia, 
+		CONCAT(F.Direccion_calle, " ", CONVERT(F.Direccion_número, CHAR(10)), ", CP ", F.Direccion_codigopostal, ", ", F.Direccion_localidad) as Direccion_Farmacia
 from farmacia_de_turno fdt 
 join farmacia f on f.Id_farmacia = fdt.Farmacia_Id_farmacia
 where f.Direccion_localidad = 'Rafaela' 
