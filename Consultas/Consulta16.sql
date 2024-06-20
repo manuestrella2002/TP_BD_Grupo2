@@ -1,3 +1,4 @@
+-- CONSULTA 16 --
 -- Cual es el plan de OSDE que tiene mas clientes de entre 18-30 años que cuentan con su tarjeta de fidelidad para un descuento en artículos de perfumeria
 
 WITH planes_osde AS (

@@ -1,4 +1,4 @@
--- CONSULTA 18: Fluoxetina de urgencia -- 
+-- CONSULTA 9: Fluoxetina de urgencia -- 
 --  Farmacias de turno en el día de la fecha en la localidad de 'Rafaela' que tenga 'Fluoxetina'
 
 SELECT DISTINCT f.Id_farmacia, 

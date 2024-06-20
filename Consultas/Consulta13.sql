@@ -1,4 +1,4 @@
--- CONSULTA 16: top empleados --
+-- CONSULTA 13: top empleados --
 -- Hallar nombre, DNI y CBU de los empleados que recibieron puntaje 10 en todas las encuestas de satisfacción que en las que fueron calificados
 
 SELECT 	CONCAT(e.Nombre_empleado, " ", e.Apellido_empleado) as Nombre_Empleado,

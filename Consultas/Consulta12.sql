@@ -1,4 +1,4 @@
--- CONSULTA 22: ¿hacer promociones online? --
+-- CONSULTA 12: ¿hacer promociones online? --
 -- Hallar incidencia compras online sobre total de las ventas y top 3 artículos en carritos que no se concretaron.
 
 -- Subconsulta para determinar las compras online (realizadas)

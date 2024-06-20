@@ -1,4 +1,4 @@
--- CONSULTA 7: PERFIL ETARIO --  
+-- CONSULTA 15: PERFIL ETARIO --  
 -- El sector que más compran por rango etario (cada 20 años) y cuánta plata gastan en promedio
 
 WITH Rango_Etario_Sector AS (

@@ -1,4 +1,5 @@
--- Mejor empleado del mes segun las encuestas y por farmacia, el mejor empleado del mes tiene que tener puntaje promedio mayor o igual a 8
+-- CONSULTA 14: Mejores empleados --
+-- Mejores empleados del mes segun las encuestas y por farmacia, el mejor empleado del mes tiene que tener puntaje promedio mayor o igual a 8.
 
 WITH MesActual AS (
     SELECT YEAR(CURDATE()) AS Anio, MONTH(CURDATE()) AS Mes
@@ -22,11 +23,14 @@ MejorEmpleadoPorFarmacia AS (
     FROM PromedioPuntaje
 )
 
-SELECT me.Farmacia_Id_farmacia AS ID_FARMACIA,
- me.Empleado_DNI_empleado AS DNI_EMPLEADO,
- e.Nombre_empleado AS NOMBRE,
- e.Apellido_empleado AS APELLIDO,
- me.PromedioPuntaje AS PUNTAJE_PROMEDIO
+SELECT me.Farmacia_Id_farmacia AS Farmacia,
+ me.Empleado_DNI_empleado AS DNI_Empleado,
+ CONCAT(e.Nombre_empleado, " ", e.Apellido_empleado) AS Nombre_Empleado,
+ me.PromedioPuntaje AS Puntaje_Promedio
 FROM MejorEmpleadoPorFarmacia AS me
 JOIN empleado e ON me.Empleado_DNI_empleado = e.DNI_empleado
-WHERE me.Rango = 1 AND me.PromedioPuntaje >=8;
+WHERE me.Rango = 1 AND me.PromedioPuntaje >= 8
+ORDER BY me.PromedioPuntaje DESC;
+
+
+

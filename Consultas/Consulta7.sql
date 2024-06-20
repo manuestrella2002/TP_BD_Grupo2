@@ -1,4 +1,4 @@
--- CONSULTA 19: Medicamentos equivalentes --
+-- CONSULTA 7: Medicamentos equivalentes --
 -- Búsqueda de medicamentos con las mismas drogas
 
 with MedicamentosEquivalentes as (

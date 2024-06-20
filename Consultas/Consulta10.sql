@@ -1,4 +1,4 @@
--- CONSULTA 13: NUEVO FARMACHICHI --
+-- CONSULTA 10: NUEVO FARMACHICHI --
 -- ¿En qué localidad conviene abrir un Farmachichi? ¿Dónde viven los clientes que no tienen Farmachichi?
 
 WITH Localidades AS(

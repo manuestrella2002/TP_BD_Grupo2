@@ -1,4 +1,4 @@
--- CONSULTA 21: Responsables ahora --
+-- CONSULTA 8: Responsables ahora --
 -- Farmacéuticos responsables de turno en este momento
 
 WITH dia_actual AS (
